@@ -1,0 +1,529 @@
+nr;bezeichnung;geplant_september_20;geplant_juni_21;leistung_juni_20;leistung_september_20;leistung_dezember_20;leistung_maerz_21;leistung_juni_21;bereich;leistungsart;extern_empfaenger;abwicklungsstelle
+[1];Druckkostenbeitrag für Tageszeitungen;9740000;9740000;9740000;9740000;9740000;9740000;9740000;Medien;Zuschuss;Unternehmen;KommAustria, RTR GmbH
+[2];Erhöhung der Presseförderung für Tageszeitungen;3150000;3220000;1570000;1570000;3220000;3220000;3220000;Medien;Zuschuss;Unternehmen;KommAustria, RTR GmbH
+[3];Erhöhung der Presseförderung für Wochenzeitungen;2680000;2610000;1270000;1340000;2610000;2610000;2610000;Medien;Zuschuss;Unternehmen;KommAustria, RTR GmbH
+[4];Förderung von Wochen–, Regional– und Onlinezeitungen sowie Zeitschriften;3000000;3000000;;;3000000;3000000;3000000;Medien;Zuschuss;Unternehmen;KommAustria, RTR GmbH
+[12];Familienbeihilfe Kinderbonus;665000000;665350000;;665350000;665350000;665350000;665350000;Familie;Zuschuss;Privatpersonen;
+[13];Familienhärtefonds;100000000;200000000;16770000;76670000;100000000;125670000;130990000;Familie;Zuschuss;Privatpersonen;
+[14];Familienkrisenfonds;17000000;17000000;;16600000;16600000;16600000;16600000;Familie;Zuschuss;Privatpersonen;
+[90];Sonderfamilienbeihilfe;;101500000;;;;;;Familie;Zuschuss;Privatpersonen;
+[5];Aufstockung der Notstandshilfe;108000000;147550000;10570000;45000000;78310000;113590000;147550000;Arbeitsmarkt;Zuschuss;Privatpersonen;AMS
+[91];Bildungsbonus;;58000000;;;790000;4080000;9000000;Arbeitsmarkt;Zuschuss;Privatpersonen;AMS
+[6];COVID–19 Einmalzahlung;198000000;198000000;;181360000;182300000;182390000;182930000;Arbeitsmarkt;Zuschuss;Privatpersonen;AMS
+[92];COVID–19 Einmalzahlung – zweite Zahlung;;188830000;;;182930000;188280000;188830000;Arbeitsmarkt;Zuschuss;Privatpersonen;ÖGK, BVAEB, SVS
+[7];Kurzarbeit;8448120000;10943960000;2903700000;4818300000;5487090000;7154470000;8588120000;Arbeitsmarkt;Zuschuss;Unternehmen, Non–Profit–Organisationen;AMS
+[8];Neustartbonus;30000000;6690000;;610000;1860000;3110000;4780000;Arbeitsmarkt;Zuschuss;Privatpersonen;AMS
+[9];Sonderbetreuungszeit (inklusive Sommer);15000000;13680000;1150000;3640000;8580000;10400000;12060000;Arbeitsmarkt;Zuschuss;Unternehmen, Non–Profit–Organisationen;
+[93];Sonderfreistellung COVID–19;;60000000;;;;;;Arbeitsmarkt;Zuschuss;Unternehmen, Non–Profit–Organisationen, öffentliche Einrichtungen;ÖGK, BVAEB
+[10];Beitragsrechtliche Erleichterung – Sozialversicherungsbeiträge;150000000;;;;;;;Arbeitsmarkt;Stundung;Unternehmen, Non–Profit–Organisationen, öffentliche Einrichtungen;
+[11];Inanspruchnahme Erleichterung – Arbeitslosenversicherung;;;;;;;;Arbeitsmarkt;Sonstiges;Unternehmen (b1);AMS
+[94];COVID–19–Maßnahmenpaket für Schulen (Förderstundenpaket) – Schuljahr 2020/21;;117040000;;;;;52950000;Bildung;Zuschuss;öffentliche Einrichtungen;
+[95];Projekt Ferienlernhilfe – Schuljahr 2020/21;;960000;;;250000;710000;710000;Bildung;Zuschuss;Unternehmen (b2);
+[15];Schulstornofonds;13000000;9400000;3090000;6660000;7860000;8350000;9150000;Bildung;Zuschuss;Privatpersonen;OeAD
+[16];Ausgleich finanzieller Einbußen der Fachhochschulen;2490000;2490000;;2490000;2490000;2490000;2490000;Wissenschaft und Forschung;Zuschuss;Fachhochschulen;
+[17];Ergänzung der Leistungsvereinbarung mit der Universität Wien;12600000;12600000;;740000;4100000;4100000;4100000;Wissenschaft und Forschung;Zuschuss;Universitäten;
+[18];Österreichische Mensen Betriebsgesellschaft mbH;5200000;4100000;;1500000;2600000;2600000;3500000;Wissenschaft und Forschung;Zuschuss;Unternehmen;
+[96];COVID–19 Förderung betrieblicher Testungen;;100000000;;;;;7640000;Wirtschaft;Zuschuss;Unternehmen, bestimmte berufliche Interessenvertretungen;aws
+[19];COVID–19 Investitionsprämie für Unternehmen;1000000000;7800000000;;20000;15380000;46820000;81380000;Wirtschaft;Zuschuss;Unternehmen;aws
+[20];COVID–19 Zuschuss für Film und TV–Dreharbeiten;25000000;25000000;;;380000;1130000;3390000;Wirtschaft;Zuschuss;Unternehmen (b1 und b4);aws
+[21];Härtefallfonds;1000000000;2000000000;358260000;584910000;895910000;1328700000;1840560000;Wirtschaft;Zuschuss;Unternehmen (b1 und b2), freie Dienstnehmerinnen und Dienstnehmer;WKO
+[97];Kleinst– und Kleinunternehmerbonus;;8200000;;;;4930000;5400000;Wirtschaft;Zuschuss;Unternehmen;WKO Inhouse GmbH
+[22];Lehrlingsbonus;54500000;54500000;;4180000;39820000;49210000;49860000;Wirtschaft;Zuschuss;Unternehmen;WKO Inhouse GmbH
+[23];Haftungen für Überbrückungs– und Kreditstundungsfinanzierungen;3750000000;3750000000;2303600000;2565200000;2633470000;2701380000;2719620000;Wirtschaft;Haftung bzw. Garantie;Unternehmen (b1 bis b4);aws, COFAG (finanziert über die COFAG)
+[24];Emergency Call zur Erforschung von COVID–19;1000000;940000;80000;700000;770000;770000;770000;Wissenschaft und Forschung;Zuschuss;Unternehmen;FFG
+[25];Zweckzuschüsse an Gemeinden zur Unterstützung von Investitionen;1000000000;1000000000;;73480000;260700000;577880000;737790000;Finanzausgleich;Zuschuss;Gemeinden;
+[26];Unterstützung privater sowie nichtkommerzieller Rundfunkveranstalter;17000000;17000000;;17000000;17000000;17000000;17000000;Medien;Zuschuss;Unternehmen;RTR GmbH
+[27];Fortführung des Hälftesteuersatzes für reaktivierte Ärzte;;;;;;;;Gesundheit;Einnahmenverzicht;Unternehmen (b1 und b2);
+[28];Umsatzsteuerbefreiung für Schutzmasken;;;;;;;;Gesundheit;Einnahmenverzicht;Privatpersonen, Unternehmen;
+[29];Senkung der Umsatzsteuer für Kulturleistungen und den Publikationsbereich;80000000;210000000;;;;;;Kunst und Kultur;Einnahmenverzicht;Privatpersonen, Unternehmen;
+[30];Steuerbefreiung pauschaler Reiseaufwandsentschädigungen trotz gesperrter Sportstätten;;;;;;;;Sport;Einnahmenverzicht;Privatpersonen, Unternehmen, Non–Profit–Organisationen;
+[98];COFAG Ausfallbonus;;;;;;654320000;2407990000;Wirtschaft;Zuschuss;Unternehmen;COFAG
+[31];COFAG Fixkostenzuschuss;8000000000;15000000000;28000000;181000000;457150000;773900000;986810000;Wirtschaft;Zuschuss;Unternehmen;COFAG
+[99];COFAG Fixkostenzuschuss 800.000;;;;;2100000;147160000;319380000;Wirtschaft;Zuschuss;Unternehmen;COFAG
+[100];COFAG Lockdown–Umsatzersatz – November;;;;;1703350000;2222880000;2261200000;Wirtschaft;Zuschuss;Unternehmen;COFAG
+[101];COFAG Lockdown–Umsatzersatz – Dezember;;;;;235470000;966460000;1016230000;Wirtschaft;Zuschuss;Unternehmen;COFAG
+[102];COFAG Lockdown–Umsatzersatz II;;;;;;24450000;54590000;Wirtschaft;Zuschuss;Unternehmen;COFAG
+[32];COFAG Standortsicherungszuschuss;;;;150000000;150000000;150000000;150000000;Wirtschaft;Zuschuss;Unternehmen;COFAG
+[33];COFAG Garantien;;;204100000;621100000;680250000;654140000;644930000;Wirtschaft;Haftung bzw. Garantie;Unternehmen (b5);OeKB, COFAG (finanziert über die COFAG)
+[103];COFAG Verlustersatz;;;;;;3540000;152230000;Wirtschaft;Zuschuss;Unternehmen;COFAG
+[34];Ergänzung zur aws–Garantierichtlinie;2000000000;2000000000;190100000;284900000;338730000;370190000;406560000;Wirtschaft;Haftung bzw. Garantie;Unternehmen;aws, COFAG (finanziert über die COFAG)
+[35];Sonder–KRR;3000000000;3000000000;2026000000;1982300000;1902990000;1710220000;1545380000;Wirtschaft;Haftung bzw. Garantie;Unternehmen;OeKB
+[36];Abschaffung der Schaumweinsteuer;7000000;37000000;;;;;;Tourismus und Gastronomie;Einnahmenverzicht;Privatpersonen, Unternehmen;
+[37];Ausweitung der Gastwirte–Pauschalierung;75000000;150000000;;;;;;Tourismus und Gastronomie;Einnahmenverzicht;Unternehmen;
+[38];Ausweitung und Vereinfachung der Alkoholsteuerbefreiung für die Herstellung von Desinfektionsmitteln;;;;;;;;Wirtschaft;Einnahmenverzicht;Privatpersonen, Unternehmen;
+[39];Erhöhte Absetzbarkeit von Geschäftsessen;25000000;25000000;;;;;;Wirtschaft;Einnahmenverzicht;Unternehmen;
+[40];Senkung der Umsatzsteuer für Beherbergungen;100000000;270000000;;;;;;Tourismus und Gastronomie;Einnahmenverzicht;Privatpersonen, Unternehmen;
+[41];Senkung der Umsatzsteuer für Gastronomieleistungen;770000000;1970000000;;;;;;Tourismus und Gastronomie;Einnahmenverzicht;Unternehmen;
+[42];Verlustrücktrag (und COVID–19–Rücklage) für das Jahr 2020;2000000000;4000000000;;;;;;Wirtschaft;Einnahmenverzicht;Unternehmen;
+[43];Verschiebung der Tabaksteuererhöhung und –umstrukturierung;15000000;15000000;;;;;;Wirtschaft;Einnahmenverzicht;Privatpersonen, Unternehmen;
+[44];Abgabenstundung bzw. Ratenzahlung;;;2884100000;3068900000;2504280000;2471220000;2476460000;keine Beschränkung;Stundung;keine Beschränkung;
+[45];Anspruch auf Pendlerpauschale auch bei vorübergehender Tele– bzw. Kurzarbeit;;;;;;;;keine Beschränkung;Einnahmenverzicht;Privatpersonen;
+[46];Ausweitung der Steuerbefreiung von Gutscheinen für vom Arbeitgeber mitfinanzierte Mahlzeiten;70000000;220000000;;;;;;keine Beschränkung;Einnahmenverzicht;keine Beschränkung;
+[47];Erhöhung der Erstattung der Sozialversicherung einschließlich der Anhebung des Zuschlags zum Verkehrsabsetzbetrag für das Jahr 2020;1700000000;3400000000;;;;;;keine Beschränkung;Einnahmenverzicht;Privatpersonen;
+[48];Pauschaler Zuschlag von 15 % zum Jahressechstel für begünstigte Besteuerung von Sonderzahlungen an Arbeitnehmerinnen und Arbeitnehmer, die im Jahr 2020 in Kurzarbeit waren oder sind;250000000;375000000;;;;;;keine Beschränkung;Einnahmenverzicht;Privatpersonen;
+[49];Steuerbefreiung für Bonuszahlungen;375000000;250000000;;;;;;keine Beschränkung;Einnahmenverzicht;Privatpersonen;
+[50];Steuerbefreiung für Unterstützungsleistungen;;;;;;;;keine Beschränkung;Einnahmenverzicht;Privatpersonen, Unternehmen, Non–Profit–Organisationen;
+[51];Steuerfreiheit für Überstunden oder Schmutz–, Erschwernis– und Gefahrenzulagen;;;;;;;;keine Beschränkung;Einnahmenverzicht;Privatpersonen;
+[52];Vorgezogene beschleunigte Abschreibung von Gebäuden;280000000;560000000;;;;;;keine Beschränkung;Einnahmenverzicht;Privatpersonen, Unternehmen;
+[53];Vorgezogene degressive Absetzung für Abnutzung;;;;;;;;keine Beschränkung;Einnahmenverzicht;Unternehmen;
+[54];Vorgezogene Senkung des Eingangssteuersatzes auf 20 %;;;;;;;;keine Beschränkung;Einnahmenverzicht;Privatpersonen, Unternehmen;
+[55];Wegfall der Nachforderungszinsen;;;;;;;;keine Beschränkung;Einnahmenverzicht;keine Beschränkung;
+[56];Wegfall der Säumniszuschläge;;;22400000;40400000;;;;keine Beschränkung;Einnahmenverzicht;keine Beschränkung;
+[57];Wegfall der Stundungszinsen;;;27200000;45400000;;;;keine Beschränkung;Einnahmenverzicht;keine Beschränkung;
+[58];Befreiung von Gebühren und Bundesverwaltungsabgaben;;;;;;;;keine Beschränkung;Sonstiges;Privatpersonen, Unternehmen, Non–Profit–Organisationen;
+[59];Fristerstreckung für die Einreichung der Abgabenerklärungen 2019;;;;;;;;keine Beschränkung;Sonstiges;keine Beschränkung;
+[60];Fristunterbrechung im Abgaben– und Finanzstrafverfahren;;;;;;;;keine Beschränkung;Sonstiges;keine Beschränkung;
+[61];Herabsetzung bzw. Nichtfestsetzung von Einkommensteuer– und Körperschaftsteuer–Vorauszahlungen;12000000000;10000000000;3529800000;3812830000;2024330000;2585340000;2999370000;keine Beschränkung;Sonstiges;Privatpersonen, Unternehmen;
+[62];Rückzahlung von Abgabengutschriften;;;;;;;;keine Beschränkung;Sonstiges;keine Beschränkung;
+[63];PROD–COVID–19;5000000;5000000;840000;2260000;2730000;2730000;2880000;Wissenschaft und Forschung;Zuschuss;Unternehmen;FFG
+[64];COVID–19 Bundestheater;14330000;35110000;;1250000;10390000;10390000;10390000;Kunst und Kultur;Zuschuss;öffentliche Einrichtungen;
+[65];COVID–19 Bundesmuseen;29970000;67510000;;10000000;24140000;24140000;33140000;Kunst und Kultur;Zuschuss;öffentliche Einrichtungen;
+[66];COVID–19 Filmförderung;1000000;1000000;300000;720000;1000000;1000000;1000000;Kunst und Kultur;Zuschuss;Privatpersonen, Unternehmen (b1 bis b3);ÖFI
+[67];COVID–19 Filmförderung Programmkinos;450000;450000;450000;450000;450000;450000;450000;Kunst und Kultur;Zuschuss;Unternehmen (b2 und b3);
+[68];COVID–19 IG Netz;200000;200000;;;200000;200000;200000;Kunst und Kultur;Zuschuss;Privatpersonen;IG Freie Theater
+[69];COVID–19 Künstlersozialversicherungsfonds;10000000;40000000;2040000;5010000;11590000;19820000;28180000;Kunst und Kultur;Zuschuss;Privatpersonen, Unternehmen (b1);Künstlersozialversicherungsfonds
+[70];COVID–19 Überbrückungsfonds für selbstständige Künstlerinnen und Künstler;90000000;140000000;;24390000;67560000;98620000;127700000;Kunst und Kultur;Zuschuss;Privatpersonen, Unternehmen (b1);SVS
+[71];COVID–19 Zusatzförderung für Verlage;800000;800000;800000;800000;800000;800000;800000;Kunst und Kultur;Zuschuss;Unternehmen (b2 und b3);
+[104];Fonds für besondere Förderung im Zusammenhang mit COVID–19;;10000000;;;;;;Kunst und Kultur;Zuschuss;Unternehmen (b2 bis b4);
+[105];Neustartpaket Kunst und Kultur;;20000000;;;;;2270000;Kunst und Kultur;Zuschuss;Privatpersonen, Unternehmen (b2 bis b4);
+[72];NPO–Unterstützungsfonds;665000000;915000000;;97660000;240330000;308880000;446730000;Soziales;Zuschuss;Non–Profit–Organisationen;aws
+[73];COVID–19–Bundessporteinrichtungen Gesellschaft mbH;1820000;3320000;;;1820000;1820000;1820000;Sport;Zuschuss;Unternehmen;
+[74];Sportligen COVID–19–Fonds;35000000;61220000;;4240000;10760000;20850000;26320000;Sport;Zuschuss;Vereine;Bundes–Sport GmbH
+[106];Gastgärtenoffensive;;10000000;;;;;150000;Tourismus und Gastronomie;Zuschuss;Unternehmen;ÖHT
+[75];Härtefallfonds Landwirtschaft;56000000;56000000;3780000;8660000;15770000;30170000;43690000;Land- und Forstwirtschaft;Zuschuss;Unternehmen (b2);AMA
+[76];Härtefallfonds Privatzimmervermietung;81000000;81000000;150000;1580000;4700000;21700000;35020000;Tourismus und Gastronomie;Zuschuss;Privatpersonen;AMA
+[77];Spanische Hofreitschule – Lipizzanergestüt Piber GöR;7000000;8700000;3000000;5500000;7000000;12000000;12000000;Tourismus und Gastronomie;Zuschuss;Unternehmen;
+[107];Übernahme der Kosten bei Haftungsübernahmen für Überbrückungsfinanzierungen;;16250000;;;11240000;11240000;11240000;Tourismus und Gastronomie;Zuschuss;Unternehmen;ÖHT
+[108];Schutzschirm für Veranstaltungen;;300000000;;;;;810000;Tourismus und Gastronomie;Zuschuss;Unternehmen;ÖHT
+[78];Testungen – Sichere Gastfreundschaft;100160000;220930000;;8910000;43050000;62790000;109060000;Tourismus und Gastronomie;Sachleistung;Privatpersonen;
+[109];Haftungsübernahmen für Reiseleistungsausübungsberechtigte;;300000000;;;;31600000;32100000;Tourismus und Gastronomie;Haftung bzw. Garantie;Unternehmen;ÖHT
+[79];Übernahme von Haftungen – Tourismus und Freizeitwirtschaft;1625000000;1625000000;798600000;936500000;1144240000;1215900000;1281120000;Tourismus und Gastronomie;Haftung bzw. Garantie;Unternehmen;ÖHT, COFAG (finanziert über die COFAG)
+[80];COVID–19–Risiko–Attest;15000000;77000000;;;33260000;33260000;42700000;Gesundheit;Zuschuss;Unternehmen;ÖGK, BVAEB
+[81];Corona–App;1000000;1000000;;;810000;810000;810000;Gesundheit;Zuschuss;Non–Profit–Organisationen;
+[82];Leistungsverlängerungen;;;;;60000;60000;60000;Gesundheit;Zuschuss;Privatpersonen;ÖGK, BVAEB
+[83];Verdienstentgang für selbstständig erwerbstätige Personen und Unternehmen;;;;2940000;4830000;17290000;86300000;Gesundheit;Zuschuss;Unternehmen;
+[110];FFP2–Masken;;22620000;;;;18580000;22620000;Gesundheit;Sachleistung;Privatpersonen;
+[111];Impfstoff gegen SARS–CoV–2;;379890000;;;21760000;45580000;118010000;Gesundheit;Sachleistung;Privatpersonen;
+[84];Stundung von Sozialversicherungsbeiträgen;;;;;;;;Gesundheit;Stundung;Unternehmen;ÖGK
+[85];Verzicht auf Säumniszuschläge;;;;;;;;Gesundheit;Einnahmenverzicht;Unternehmen;ÖGK
+[112];Bekämpfung pandemiebedingter Armutsfolgen;;12000000;;;;;;Soziales;Zuschuss;Non–Profit–Organisationen;
+[86];Familienhärteausgleich;13000000;13000000;;13000000;13000000;13000000;13000000;Soziales;Zuschuss;Privatpersonen;
+[87];Sicherung des freiwilligen Engagements;600000;600000;;;600000;600000;600000;Soziales;Zuschuss;Non–Profit–Organisationen;Anerkennungsfonds für Freiwilliges Engagement
+[113];Unterstützung gemeinnütziger Organisationen;;20000000;;;;;;Soziales;Zuschuss;Non–Profit–Organisationen;
+[114];Unterstützungsleistungen an Haushalte mit Sozialhilfe– oder Mindestsicherungsbezug;;34000000;;;;20000000;20000000;Soziales;Zuschuss;Privatpersonen;
+[115];COVID–19 Honorarausfallsersatz für Vertragspartner der Österreichischen Gesundheitskasse;;40000000;;;;;;Wirtschaft;Zuschuss;Privatpersonen, Unternehmen;ÖGK
+[88];COVID–19 Startup–Hilfsfonds;50000000;48780000;15620000;36550000;48780000;48780000;48780000;Wirtschaft;Zuschuss;Unternehmen (b1 bis b3);aws
+[89];KLIPHA–COVID–19 Fonds;20000000;15670000;2440000;6810000;7520000;8960000;9400000;Wissenschaft und Forschung;Zuschuss;Unternehmen;FFG
+[B1];Förderung Alleinerzieherinnen und –erzieher;65000;95000;17800;45850;64850;62000;89100;Familie;Zuschuss;Privatpersonen;
+[B2];Arbeitsstipendien;75000;100000;;48750;100000;100000;100000;Kunst und Kultur;Zuschuss;Privatpersonen;
+[B3];Kulturgutschein;200000;520000;3900;44150;199890;333010;508820;Kunst und Kultur;Zuschuss;Privatpersonen;
+[B15];Gesellschafterzuschuss für den Kraftfahrlinienbereich 2020;;805070;;;;;805070;Mobilität;Zuschuss;Unternehmen (b5);
+[B4];24–Stunden–Betreuungskräfte–Bonus;1500000;1500000;441000;808000;884107;884107;917607;Pflege;Zuschuss;Privatpersonen;
+[B5];24–Stunden–Betreuungskräfte – Kostenersatz für COVID–19 Testungen;1700000;1700000;;;823;12836;26955;Pflege;Zuschuss;Privatpersonen;
+[B6];Corona–Gefahrenzulage für Mitarbeiterinnen und Mitarbeiter im Pflege– und Betreuungsbereich;1700000;1700000;;313123;1429191;1528307;1528307;Pflege;Zuschuss;Unternehmen (b2 bis b4), Non–Profit–Organisationen, öffentliche Einrichtungen;
+[B16];Soziale Dienste Burgenland GmbH – Gesellschafterzuschuss;;277874;;;;;277874;Pflege;Zuschuss;Unternehmen (b3);
+[B7];Zusatzförderung Frauenhaus für coronabedingte Mehrausgaben;3000;3000;3000;3000;3000;3000;3000;Soziales;Zuschuss;Non–Profit–Organisationen;
+[B8];Zusatzförderung für Frauenberatungsstellen;7000;7000;7000;7000;7000;7000;7000;Soziales;Zuschuss;Non–Profit–Organisationen;
+[B17];Joanneum Research Forschungsgesellschaft mbH – Gesellschafterzuschuss;;12500;;;;;12500;Wissenschaft und Forschung;Zuschuss;Unternehmen;
+[B9];Burgenland Bonusticket;477000;962027;;402566;962027;962027;962027;Tourismus und Gastronomie;Zuschuss;Privatpersonen;BTG
+[B18];Burgenland Bonusticket 2020 Winter;;1600000;;;5475;18450;45896;Tourismus und Gastronomie;Zuschuss;Privatpersonen;BTG
+[B19];Burgenland Bonusticket 2021 Frühling;;2000000;;;;;586999;Tourismus und Gastronomie;Zuschuss;Privatpersonen;BTG
+[B20];Corona–Kasko;;304941;;;38077;38077;38077;Tourismus und Gastronomie;Zuschuss;Privatpersonen;BTG
+[B10];Handwerkerbonus;1000000;24000000;;;3987456;9966651;15094523;Wirtschaft;Zuschuss;Privatpersonen;
+[B11];Härtefälle–Fonds;3400000;3400000;850935;1025326;1354469;1486884;1524206;Wirtschaft;Zuschuss;Unternehmen (b1 und b2);WiBuG
+[B12];Zinsenzuschuss für ÖHT–Überbrückungskredite;500000;500000;;;230399;230399;248654;Tourismus und Gastronomie;Zuschuss;Unternehmen;WiBuG
+[B13];Übernahme von Haftungen für Unternehmen;10000000;10000000;2051600;2647600;2647600;2675600;2715600;Wirtschaft;Haftung bzw. Garantie;Unternehmen;WiBuG
+[B14];Überbrückungshilfe „Kredite“;195000;195000;195000;195000;195000;195000;195000;Wirtschaft;Darlehen;Unternehmen;WiBuG
+[K1];Arbeitsstiftungen;8000000;8000000;;;;;;Arbeitsmarkt;Zuschuss;Non–Profit–Organisationen;
+[K2];Ausbau der überbetrieblichen Lehrausbildung;1500000;1500000;;;172807;172807;172807;Arbeitsmarkt;Zuschuss;Privatpersonen;
+[K3];Eingliederungsbeihilfen für Tätigkeiten von Langzeitarbeitslosen und älteren Arbeitslosen;2350000;2350000;;;86927;289423;473368;Arbeitsmarkt;Zuschuss;Non–Profit–Organisationen, Gemeinden;
+[K4];Qualifizierungsförderung;750000;750000;;;8253;12688;21257;Arbeitsmarkt;Zuschuss;Unternehmen;
+[K5];Kinderstipendium – Sommerbetreuung für 0– bis 6–Jährige;1000000;1800000;;565378;565378;565378;565378;Bildung;Zuschuss;Non–Profit–Organisationen, öffentliche Einrichtungen;
+[K6];Sommerbetreuung für 6– bis 14–jährige Schulkinder;400000;400000;;65130;229366;229366;229366;Bildung;Zuschuss;Non–Profit–Organisationen, öffentliche Einrichtungen;
+[K7];Sondersubvention – Ersatz für ausbleibende Einnahmen für die Jahre 2020 und 2021;15000;25000;15000;15000;15000;15000;25000;Bildung;Zuschuss;Non–Profit–Organisationen;
+[K29];Digital fit für die Schule zu Hause – Bereitstellung von Software, Hardware, Internet und Schulungen;;276000;;;19159;173536;272623;Bildung;Sachleistung;Privatpersonen;
+[K8];Reduktion des Musikschulbeitrags bzw. Verzicht auf Einnahmen für Elementare Musikpädagogik–Kurse in Kindergärten für die Jahre 2020 und 2021;1000000;1590000;;1009810;1009810;1009810;1599810;Bildung;Einnahmenverzicht;Privatpersonen;
+[K9];2. Kärntner Gemeindehilfspaket;20000000;20000000;;;;;;Finanzausgleich;Zuschuss;Gemeinden;
+[K30];Kärntner Regionalfonds;;4000000;;;;903000;1203000;Finanzausgleich;Darlehen;öffentliche Einrichtungen;
+[K10];Arbeitsstipendien Kunst;198720;397440;;144900;198720;339480;397440;Kunst und Kultur;Zuschuss;Privatpersonen, Unternehmen (b1);
+[K11];Förderung der Kärntner Kulturstiftung – Solidaritätsfonds;20000;20000;20000;20000;20000;20000;20000;Kunst und Kultur;Zuschuss;Non–Profit–Organisationen;
+[K12];Mietreduktionen Konzerthaus für die Jahre 2020 und 2021;2042;179000;1614;2042;89000;89000;89000;Kunst und Kultur;Einnahmenverzicht;Privatpersonen, Non–Profit–Organisationen;
+[K13];Sicherung der Aufrechterhaltung des Öffentlichen Verkehrs im Kraftfahrlinienbereich;800000;800000;;;600000;800000;800000;Mobilität;Zuschuss;Unternehmen;
+[K14];24–Stunden–Betreuungskräfte–Bonus;1250000;997500;592500;938500;975000;996500;996500;Pflege;Zuschuss;Privatpersonen;
+[K31];24–Stunden–Betreuungskräfte – Kostenersatz für COVID–19 Testungen;;400000;;;100460;180460;264015;Pflege;Zuschuss;Privatpersonen;
+[K32];Altenwohn– und Pflegeheime – Aufwandsentschädigung für selbst organisierte Testungen;;450000;;;;123031;246062;Pflege;Zuschuss;Unternehmen (b2 und b3), Non–Profit–Organisationen, öffentliche Einrichtungen;
+[K33];Altenwohn– und Pflegeheim – Kontrolle der Besuchsregelung;;800000;;;;;150681;Pflege;Zuschuss;Unternehmen (b3 und b4), Non–Profit–Organisationen, öffentliche Einrichtungen;
+[K15];Aufstockung für Hilfe in besonderen Lebenslagen;350000;970000;180000;310000;570000;740000;970000;Soziales;Zuschuss;Privatpersonen, Unternehmen (b1);
+[K34];COVID–19 Gefahrenzulage – Personal im Sozialbereich;;578563;;;;570517;578563;Soziales;Zuschuss;Privatpersonen, Non–Profit–Organisationen;
+[K35];COVID–19 Gefahrenzulage – Personal im Pflegebereich;;;;;2090405;2090405;2090405;Pflege;Zuschuss;Unternehmen (b3 und b4), Non–Profit–Organisationen, öffentliche Einrichtungen;
+[K36];Kostenersatz der Mehrkosten für die Beschaffung von Schutzausrüstungen – Altenwohn– und Pflegeheime, Mobile Dienste;;4000000;;;;;;Pflege;Zuschuss;Non–Profit–Organisationen, öffentliche Einrichtungen;
+[K37];Sonderförderung für Jugendzentren/Jugendeinrichtungen – Aufrechterhaltung des Betriebes;;80000;;;;36000;46000;Soziales;Zuschuss;Non–Profit–Organisationen;
+[K38];Zusätzliches Personal für den stationären Bereich der Kinder– und Jugendhilfe;;38181;;;;;38181;Soziales;Zuschuss;Non–Profit–Organisationen;
+[K39];Altenwohn– und Pflegeheime – Supervisionen für Pflege– und Betreuungskräfte;;120000;;;;33459;66918;Pflege;Sachleistung;Unternehmen (b2 und b3), Non–Profit–Organisationen, öffentliche Einrichtungen;
+[K40];Altenwohn– und Pflegeheime – Zusätzliches Personal zur Durchführung von verpflichtenden Testungen;;80000;;;;24731;49462;Pflege;Sachleistung;Unternehmen (b3), Non–Profit–Organisationen, öffentliche Einrichtungen;
+[K41];COVID–19 Pflegedienst durch mobile soziale Dienste für COVID–19 Erkrankte;;150000;;;51810;111810;202491;Pflege;Sachleistung;Privatpersonen;
+[K42];Hygieneschulungen für Pflege– und Betreuungspersonal der mobilen sozialen Dienste;;1486;;;1486;1486;1486;Pflege;Sachleistung;Non–Profit–Organisationen;
+[K43];Lebensmittelgutscheine für Familien, um die COVID–19–bedingten finanziellen Schwierigkeiten abzufedern;;39225;;;;9800;22500;Soziales;Sachleistung;Privatpersonen;
+[K44];COVID–19–Fleischpaket – Unterstützungspaket für Kärntner Produzenten von Rinder– und Schweinefleisch;;1009280;;;1007080;1009280;1009280;Land- und Forstwirtschaft;Zuschuss;Unternehmen;LWK Kärnten
+[K16];Ermäßigung Kärnten Card;1455000;2955000;518401;1182968;1242796;2162942;2162942;Tourismus und Gastronomie;Zuschuss;Privatpersonen;
+[K17];KWF COVID–19–Unterstützung;1000000;1500000;;;1324000;1352620;1352620;Wirtschaft;Zuschuss;Unternehmen;KWF
+[K18];KWF–Stabilisierungsfonds – Stabilisierungskapital Bonus;12600000;13500000;;72275;2577518;4584787;7730494;Wirtschaft;Zuschuss;Unternehmen (b1 bis b4);KWF
+[K19];Maßnahmenpaket zur Unterstützung der heimischen Waldbauern und Forcierung der Wertschöpfungskette Forstwirtschaft – Holzverarbeitung;3946000;3946000;;;2391167;2391167;2391167;Land- und Forstwirtschaft;Zuschuss;Privatpersonen, Unternehmen;
+[K45];Neustart Tourismus – Unterstützung regionaler Tourismusorganisationen;;500000;;;;;204950;Tourismus und Gastronomie;Zuschuss;Verbände;
+[K46];Open Air Offensive – Gastgarten Winterfit;;249000;;;189000;189000;189000;Tourismus und Gastronomie;Zuschuss;Unternehmen (b1 bis b3);WKK
+[K20];Sicherung Basisbetrieb Tourismusverbände;320000;640000;233000;233000;233000;364872;388699;Tourismus und Gastronomie;Zuschuss;Verbände;
+[K47];Ausgabe und Verteilung der COVID–19–Tests;;50000;;;;;50000;Wirtschaft;Sachleistung;Unternehmen;
+[K21];Beratungsleistungen;1500000;1500000;;1400000;1500000;1500000;1500000;Wirtschaft;Sachleistung;Unternehmen (b1 bis b4);KWF, KSG
+[K48];COVID–19 Ersatzquartier für Touristinnen und Touristen in behördlicher Quarantäne;;16500;;;;;16500;Tourismus und Gastronomie;Sachleistung;Privatpersonen;
+[K49];COVID–19 Selbsttests – Anschaffung für Tourismus– und Freizeitwirtschaft;;151000;;;;;151000;Tourismus und Gastronomie;Sachleistung;Unternehmen;
+[K22];KWF–Stabilisierungsfonds – Stabilisierungskapital Beratung;504000;500000;;;46365;73269;116339;Wirtschaft;Sachleistung;Unternehmen (b1 bis b4);KWF
+[K23];KWF–Stabilisierungsfonds – Stabilisierungskapital Darlehen;5880000;6000000;;;420000;520000;820000;Wirtschaft;Darlehen;Unternehmen (b1 bis b4);KWF
+[K24];Pachtzinsreduktionen;2100;90989;2100;2100;90989;90989;90989;Wirtschaft;Einnahmenverzicht;Unternehmen (b2 bis b4);
+[K25];Reduktion von Miet– und Pachtzinsen sowie Betriebskosten für Geschäftslokale;16058;112675;16058;16058;52975;87346;112675;Wirtschaft;Einnahmenverzicht;Unternehmen (b1 bis b3);
+[K26];Aussetzung bescheidmäßiger Vorschreibungen von Tourismusabgaben;;;;;;;;Tourismus und Gastronomie;Stundung;Privatpersonen, Unternehmen;
+[K27];KWF–Stabilisierungsfonds – Stabilisierungskapital Beteiligung;9016000;8000000;;;;258000;658000;Wirtschaft;Kapital­beteiligung;Unternehmen (b1 bis b4);KWF
+[K50];Joanneum Research Forschungs–GmbH Gesellschafterzuschuss;;35000;;;;;35000;Wissenschaft und Forschung;Zuschuss;Unternehmen;
+[K28];Stundung von Abgabenrückständen betreffend Landesabgaben;415000;1042000;236000;415000;442000;701000;1042000;keine Beschränkung;Stundung;Privatpersonen, Unternehmen;
+[N1];COVID–Einstellungsbeihilfe;1000000;1000000;;;;;;Arbeitsmarkt;Zuschuss;Unternehmen, Non–Profit–Organisationen;
+[N2];Sonderförderung Aktion Ferienbetreuung;1000000;1000000;;560632;687937;687937;687937;Bildung;Zuschuss;Non–Profit–Organisationen, öffentliche Einrichtungen;
+[N3];Sonderförderung der Tageseltern;184960;184960;22880;184960;184960;184960;184960;Bildung;Zuschuss;Unternehmen (b1);
+[N32];Sonderförderung für privat geführte Horte in Niederösterreich;;1350000;;;532749;532749;532749;Bildung;Zuschuss;Non–Profit–Organisationen;
+[N33];Sonderförderung für privat geführte Horte in Niederösterreich;;1500000;;;;;556584;Bildung;Zuschuss;Non–Profit–Organisationen;
+[N4];Sonderförderung für privat geführte Tagesbetreuungseinrichtungen und Privatkindergärten;1770000;1695000;20940;64688;312203;312203;312203;Bildung;Zuschuss;Non–Profit–Organisationen;
+[N34];Sonderförderung für privat geführte Tagesbetreuungseinrichtungen und Privatkindergärten;;75209;;;;;75209;Bildung;Zuschuss;Non–Profit–Organisationen;
+[N35];Ankauf von Corona–Selbsttests (Anterio–Nasal–Tests);;1893375;;;;475000;1240000;Bildung;Sachleistung;Privatpersonen;
+[N5];Organisatorische Unterstützung der Aktion Ferienbetreuung;600000;600000;;477614;497211;497211;497211;Bildung;Sachleistung;öffentliche Einrichtungen;
+[N6];Vergütung der fehlenden Abgabenerträge aus dem Interessentenbeitrag 2020 an die Gemeinden;10200000;20600000;;;10431941;10431941;20870647;Finanzausgleich;Zuschuss;Gemeinden;
+[N7];Zuschuss für Gemeinden;22000000;22000000;;22000000;22000000;22000000;22000000;Finanzausgleich;Zuschuss;Gemeinden;
+[N8];MNS–Masken für Mitarbeiterinnen und Mitarbeiter in privaten Pflege– und Betreuungszentren;76890;76890;76890;76890;76890;76890;76890;Gesundheit;Sachleistung;Privatpersonen;
+[N9];Call „keep in contact“;100000;100000;62018;88312;90521;91521;92121;Kunst und Kultur;Zuschuss;Privatpersonen;
+[N10];Diverse Maßnahmen für Kunst und Kultur;690000;690000;105104;105104;75031;82372;82372;Kunst und Kultur;Zuschuss;Privatpersonen, Unternehmen, Non–Profit–Organisationen;
+[N11];Kostenersatz Festivals;2203000;2203000;;;687324;727324;727324;Kunst und Kultur;Zuschuss;Unternehmen, Non–Profit–Organisationen, öffentliche Einrichtungen;
+[N12];Kunststipendien;1300000;1300000;686813;1131428;1421878;1469578;1483278;Kunst und Kultur;Zuschuss;Privatpersonen;
+[N13];24–Stunden–Betreuung – Förderung bei Beschäftigung selbstständiger Betreuungskräfte;100000;783646;32725;119625;549635;701696;783646;Pflege;Zuschuss;Privatpersonen;
+[N14];24–Stunden–Betreuung PCR–Tests – Kostenersatz für privat finanzierte Testungen von Betreuungskräften;1000000;1000000;;16794;266611;536745;758461;Pflege;Zuschuss;Privatpersonen;
+[N15];24–Stunden–Betreuungskräfte–Bonus;4500000;4154500;2111000;4058000;4148725;4154725;4154500;Pflege;Zuschuss;Privatpersonen;
+[N16];24–Stunden–Betreuungskräfte – Kostenübernahme für Repatriierungsflüge;49739;27280;30902;30902;27280;27280;27280;Pflege;Zuschuss;Privatpersonen;
+[N36];Förderung Corona–Prämie – Abgeltung besonderer Leistungen von Mitarbeiterinnen und Mitarbeitern im Bereich der Kinder– und Jugendhilfe während des Lockdowns;;554260;;;554260;554260;554260;Soziales;Zuschuss;Privatpersonen;
+[N17];Förderung Corona–Prämie – Abgeltung besonderer Leistungen von Mitarbeiterinnen und Mitarbeitern im sozialen Bereich während des Lockdowns;6200000;4356795;;;4354145;4356795;4356795;Soziales;Zuschuss;Privatpersonen;
+[N37];Förderung von COVID–19 bedingten Mehraufwendungen für Personal und Vorhaltekosten zur Sicherung der Betreuung und Pflege im häuslichen Umfeld;;3356692;;;;3356692;3356692;Pflege;Zuschuss;Non–Profit–Organisationen;
+[N38];Förderung von COVID–19 bedingten Mehraufwendungen für Personal und Vorhaltekosten zur Sicherung der Versorgung in privaten Pflegeheimen und Einrichtungen für Menschen mit Behinderung;;3068981;;;;3068981;3068981;Pflege;Zuschuss;Non–Profit–Organisationen;
+[N39];Förderung von COVID–19–Schutzmaßnahmen in privaten Pflegeheimen, Einrichtungen für Menschen mit Behinderung und sozialmedizinischen und sozialen Betreuungsdiensten für den Zeitraum Juni 2020 bis Dezember 2020;;2557668;;;;;2522222;Pflege;Zuschuss;Unternehmen, Non–Profit–Organisationen;
+[N40];Förderung von COVID–19–Schutzmaßnahmen und Testungen in privaten Pflegeheimen, Einrichtungen für Menschen mit Behinderung und sozialmedizinischen und sozialen Betreuungsdiensten;;2998309;;;;2998309;2998309;Pflege;Zuschuss;Unternehmen, Non–Profit–Organisationen;
+[N41];Förderung zur Abgeltung der negativen budgetären Auswirkungen der COVID–19–Pandemie im Bereich der Kinder– und Jugendhilfe;;902540;;;902540;902540;902540;Soziales;Zuschuss;Unternehmen, Non–Profit–Organisationen;
+[N18];Pflegehotline;7351;7351;3721;7351;7351;7351;7351;Pflege;Zuschuss;Privatpersonen;
+[N19];Sonderaktion Subjektförderung COVID–19;3000000;3000000;164255;463111;734780;942119;1038295;Soziales;Zuschuss;Privatpersonen;
+[N20];Verlängerung Übergangspflege wegen fehlender häuslicher Pflege;2944;2944;2944;2944;2944;2944;2944;Pflege;Zuschuss;öffentliche Einrichtungen;
+[N21];Bereitstellung einer COVID–19 Quarantäne–Unterkunft für Asylwerbende;28839;28839;28839;28839;28839;28839;28839;Soziales;Sachleistung;Privatpersonen;
+[N22];Informationsbroschüre für Asylwerbende in 10 Sprachen;2832;2832;2832;2832;2832;2832;2832;Soziales;Sachleistung;Privatpersonen;
+[N23];MNS–Masken für Asylwerbende in organisierten Unterkünften;11393;23633;8912;11393;11393;23633;23633;Soziales;Sachleistung;Privatpersonen;
+[N24];Stundung der Wohnbauförderungsdarlehen;1029958;1029958;974063;1029958;1029958;1029958;1029958;Soziales;Stundung;Privatpersonen;
+[N25];Aufstockung der Maßnahmenförderung für Sportdachverbände im Bereich Kinder– und Jugendsport;30000;60000;;30000;30000;30000;30000;Sport;Zuschuss;Verbände;
+[N42];Zuschuss für Sportvereine aufgrund des Einnahmenausfalls bei Spielen mit verordnetem Zuschauerverbot;;238000;;;172750;225250;238000;Sport;Zuschuss;Vereine;
+[N26];Mietzinsreduktion gegenüber der Sportzentrum Niederösterreich GmbH für 17 Sportanlagen;412057;1273219;412057;412057;694998;1042481;1273219;Sport;Einnahmenverzicht;Unternehmen, Non–Profit–Organisationen;
+[N43];Aufrechterhaltung der Preisgarantie in Zeiten der Corona–Krise – Förderung für Preiseinbußen aufgrund von Verzögerungen im Schlachtbetrieb der Erzeugergemeinschaft Gut Streitdorf;;75000;;;75000;75000;75000;Land- und Forstwirtschaft;Zuschuss;Unternehmen;
+[N44];"Betrieb einer Arbeitskräftevermittlungsplattform; Förderung der zusätzlichen Aufwendungen im Laufe der COVID–19–Krise";;22400;;;9967;9967;9967;Land- und Forstwirtschaft;Zuschuss;Vereine;
+[N27];Förderaktion „NÖ Wirtschaft – gut beschützt“;250000;250000;31580;31920;31805;31805;31805;Wirtschaft;Zuschuss;Unternehmen;WKNÖ
+[N28];Fördercall „Gastgeber Hygienemaßnahmen“;10000000;10000000;1794500;2447500;4829500;5498000;5712000;Tourismus und Gastronomie;Zuschuss;Unternehmen;WKNÖ und Landesverband für Urlaub am Bauernhof und Privatzimmervermietung
+[N45];Förderung des Ankaufs von COVID–19–Schutzausrüstung, Reinigungs– und Desinfektionsmitteln für bäuerliche Direktvermarkter;;50000;;;13936;13936;13936;Land- und Forstwirtschaft;Zuschuss;Verbände;
+[N29];Unterstützungspaket für Unternehmen Übernahme von Haftungen;16000000;16000000;8328320;9064320;9064320;9064320;9064320;Wirtschaft;Haftung bzw. Garantie;Unternehmen;NÖBEG und NÖ Wirtschafts– und Tourismusfonds
+[N30];Verzicht auf Einhebung des Interessentenbeitrages 2020;500000;1040000;500000;500000;549049;549049;1098454;Tourismus und Gastronomie;Einnahmenverzicht;Unternehmen;
+[N31];Stundung von Förderkreditraten für Unternehmen;6106779;6555015;6106779;6106779;6106779;6555015;6555015;Wirtschaft;Stundung;Unternehmen;
+[O28];Bildungskarenz Plus;;800000;;;;;239924;Arbeitsmarkt;Zuschuss;Privatpersonen;
+[O29];Fachkräfteinitiative Transplacement Kirchdorf;;495327;;;;;;Arbeitsmarkt;Zuschuss;Unternehmen;
+[O1];Bezahlung der Stornokosten für abgesagte Schulveranstaltungen an Landwirtschaftlichen Fachschulen;55000;55000;;40888;43782;43782;43782;Bildung;Zuschuss;Privatpersonen;
+[O2];Landesbeitrag für Gruppen in Kinderbildungs– und –betreuungseinrichtungen, wenn Gruppen coronabedingt geschlossen wurden;25000000;25000000;25000000;25000000;25000000;25000000;25000000;Bildung;Zuschuss;Non–Profit–Organisationen, öffentliche Einrichtungen;
+[O30];Leihgerätepool für Distance–Learning–Phasen;;82000;;;82000;82000;82000;Bildung;Zuschuss;Non–Profit–Organisationen;
+[O3];Sonderzahlung für Tageselternvereine zur Abfederung von Belastungen durch Corona;200000;200000;;;;77304;77304;Bildung;Zuschuss;Non–Profit–Organisationen;
+[O4];Sonderförderung von Gemeinden und privaten Rechtsträgern für die Erweiterung des Kinderbetreuungsangebots im Sommer;200000;200000;;;;;143500;Bildung;Zuschuss;Non–Profit–Organisationen, Gemeinden;
+[O31];Oberösterreichisches Gemeindepaket 2020;;75000000;;;52021450;56267096;60558976;Finanzausgleich;Zuschuss;Gemeinden;
+[O32];Oberösterreichisches Gemeindepaket 2020 – ergänzende Maßnahmen;;54250000;;;4250000;58699443;99172177;Finanzausgleich;Zuschuss;Gemeinden;
+[O5];Art@Home;30000;26100;;3900;12200;13315;19435;Kunst und Kultur;Zuschuss;Privatpersonen, Non–Profit–Organisationen;
+[O33];Förderung von Mehrkosten für Festivals bei Verschiebungen;;400000;;;;23000;92300;Kunst und Kultur;Zuschuss;Privatpersonen, Unternehmen (b2 und b3), Non–Profit–Organisationen, Vereine;
+[O6];Härtefallfonds für oberösterreichische Kulturschaffende;250000;50000;;6556;14880;30587;43868;Kunst und Kultur;Zuschuss;Privatpersonen;
+[O34];Intensivpaket für Kulturvereine und –institutionen;;1500000;;;;;;Kunst und Kultur;Zuschuss;Unternehmen (b2 und b3), Non–Profit–Organisationen, Vereine;
+[O35];Kunstankäufe;;100000;;;91189;91189;91189;Kunst und Kultur;Zuschuss;Privatpersonen;
+[O36];Neustartbonus – Aufstockung der Jahresförderungen für Kulturvereine und –institutionen;;520000;;;;68000;105200;Kunst und Kultur;Zuschuss;Privatpersonen, Unternehmen (b2 und b3), Non–Profit–Organisationen, Vereine;
+[O37];Infektionsschutz Personenbeförderung;;261500;;;;;;Mobilität;Zuschuss;Unternehmen;
+[O38];Kapazitätserhöhung von Linienbussen der OÖVG;;617000;;;187000;337000;617000;Mobilität;Zuschuss;Unternehmen;
+[O39];Aufrechterhaltung des öffentlichen Verkehrs des OÖVV;;;;;3000000;3000000;3000000;Mobilität;Einnahmenverzicht;Unternehmen;
+[O7];24–Stunden–Betreuungskräfte–Bonus;2500000;2613000;512000;2064500;2613000;2613000;2613000;Pflege;Zuschuss;Privatpersonen;
+[O8];24–Stunden–Betreuungskräfte – Förderung von Familien;93975;9308;;;9308;9308;9308;Pflege;Zuschuss;Privatpersonen;WKOÖ
+[O9];24–Stunden–Betreuungskräfte – Kostenersatz für Covid–19–Testungen;3100000;514236;;;150000;155161;277598;Pflege;Zuschuss;Privatpersonen;WKOÖ
+[O10];500 Euro Bonuszahlung für Gesundheits–, Pflege– und Sozialberufe;8000000;8000000;;;;;8183331;Pflege;Zuschuss;Non–Profit–Organisationen, öffentliche Einrichtungen;
+[O40];COVID–19–Bonuszahlung für Mitarbeiterinnen und Mitarbeiter der OÖ Fondskrankenanstalten;;11000000;;;11000000;11000000;11000000;Soziales;Zuschuss;Privatpersonen;
+[O41];COVID–19–Bonuszahlung für Mitarbeiterinnen und Mitarbeiter im Bereich Rettungs– und Krankentransportdienst;;379446;;;379446;379446;379446;Soziales;Zuschuss;Privatpersonen;
+[O42];ArbeitnehmerInnenfonds (Härtefonds);;5000000;;;;53200;963500;Soziales;Zuschuss;Privatpersonen;
+[O11];Corona–Gefahrenzulage – Kinder– und Jugendhilfe;862000;558739;;;548796;558739;558739;Soziales;Zuschuss;Unternehmen (b4), Non–Profit–Organisationen, öffentliche Einrichtungen;
+[O43];COVID–19 Stützpersonal für Alten– und Pflegeheime;;5446000;;;;;1906100;Pflege;Zuschuss;Non–Profit–Organisationen;
+[O12];COVID–19 Wohnkostenhilfe;;472791;149780;414315;466485;472791;472792;Soziales;Zuschuss;Privatpersonen;
+[O13];Ersatzbetreuungseinrichtungen;220000;220000;;;;134316;134316;Pflege;Zuschuss;Non–Profit–Organisationen;
+[O44];Erschwerniszulage für Gesundheits– und Pflegeberufe – Krankenanstalten;;2893698;;;;;;Pflege;Zuschuss;Privatpersonen;
+[O45];Erschwerniszulage Gesundheits– und Pflegeberufe im Sozialbereich;;2050000;;;;;;Pflege;Zuschuss;Privatpersonen;
+[O14];Fortzahlung Entgelte und Taschengelder für Menschen mit Beeinträchtigung;2160000;2160000;1920000;2160000;2160000;2160000;2325000;Soziales;Zuschuss;Privatpersonen;
+[O15];Mehrkosten für Betrieb einer Notschlafstelle für Jugendliche, um wohnungs– und obdachlosen Jugendlichen die Einhaltung der Ausgangsbeschränkung zu ermöglichen;40000;72813;;;40000;40000;72813;Soziales;Zuschuss;Non–Profit–Organisationen;
+[O16];Weitere Maßnahmen zur Vermeidung von un– bzw. unterbetreuten pflegebedürftigen Personen;600000;600000;;;;;;Pflege;Zuschuss;Non–Profit–Organisationen, öffentliche Einrichtungen;
+[O46];Wohnungssicherung für Leistungsträger;;15000000;;;;;;Soziales;Zuschuss;Privatpersonen;
+[O17];Clearingmaßnahmen inklusive Hotline für Vermittlung von Pflege und Betreuung;350000;350000;;;;;234875;Pflege;Sachleistung;Privatpersonen, Non–Profit–Organisationen, öffentliche Einrichtungen;
+[O18];Smartphones für Altenheime;43189;91233;27175;43189;59204;75218;91233;Soziales;Sachleistung;öffentliche Einrichtungen;
+[O19];Aussetzen der Kostenbeiträge für „Fähigkeitsorientierte Aktivität“ für Menschen mit Beeinträchtigung;900000;2045008;;;1188630;1508574;1616819;Soziales;Einnahmenverzicht;Privatpersonen;
+[O20];2. Fußball–Bundesliga COVID–19 Sonderförderung;200000;200000;200000;200000;200000;200000;200000;Sport;Zuschuss;Vereine;
+[O21];COVID–19 Zuschuss an Dienstgeber zur Entgeltfortzahlung bei Großschadenseinsätzen;230000;320000;;211000;236000;252000;316000;Wirtschaft;Zuschuss;Unternehmen (b2 bis b5), Non–Profit–Organisationen;
+[O22];OÖ Härtefonds Clusterförderung;700000;700000;;694711;694711;694711;694711;Wirtschaft;Zuschuss;Unternehmen;
+[O23];OÖ Härtefonds für Kleinbetriebe;13300000;13300000;177872;352671;352671;352671;352671;Wirtschaft;Zuschuss;Unternehmen;
+[O47];Qualitätsoffensive aufgrund von COVID–19 zum Ankauf trächtiger Kalbinnen und Kühe über Versteigerungen;;130000;;;116600;130000;130000;Land- und Forstwirtschaft;Zuschuss;Verbände;
+[O24];Unterstützungsprogramm für die OÖ Tourismusverbände;10500000;10500000;7656440;9521116;9571011;9571011;9571011;Tourismus und Gastronomie;Zuschuss;Verbände;
+[O25];Zinsenzuschuss für ÖHT–Überbrückungskredite;7500000;7500000;1307253;1474277;1474277;1474277;1474277;Tourismus und Gastronomie;Zuschuss;Unternehmen;
+[O26];Ausfallsbürgschaft für kleine und mittlere Unternehmen;604400;312500;590250;604400;312500;312500;312500;Wirtschaft;Haftung bzw. Garantie;Unternehmen;KGG
+[O48];OÖ Landeshaftungen für Mittelstand und Großbetriebe;;300000000;;;;;;Wirtschaft;Haftung bzw. Garantie;Unternehmen (b4 und b5);
+[O27];Stundungen von Mietaufwand und Betriebskosten;18842;34120;;18842;34120;34120;34120;Wirtschaft;Stundung;Unternehmen;
+[S27];Sonderförderung Corona – Gefahrenzulage–Mindestlohntarif (Kinderbetreuung);;175000;;;;;113050;Bildung;Zuschuss;Non–Profit–Organisationen;
+[S28];Abfederung der finanziellen Mehrbelastung von externen Leistungserbringern des Sozial– und Kinderbetreuungsbereichs;;10792;;;10792;10792;10792;Bildung;Zuschuss;Non–Profit–Organisationen;
+[S29];COVID–19–bedingte Mehrbedarfe in der Erwachsenenbildung;;500000;;;250000;250000;250000;Bildung;Zuschuss;Non–Profit–Organisationen, öffentliche Einrichtungen;
+[S1];Förderung für den Entfall der Elternbeiträge in Kinderbildungs– und –betreuungseinrichtungen;1452796;1452796;;976957;1153597;1153597;1153597;Bildung;Zuschuss;Privatpersonen, Unternehmen, Non–Profit–Organisationen, öffentliche Einrichtungen;
+[S2];Sonderförderung für Digitalisierungsmaßnahmen in der Erwachsenenbildung;100000;146932;;;62487;104710;104710;Bildung;Zuschuss;Non–Profit–Organisationen, öffentliche Einrichtungen;
+[S30];COVID–19–Antigen–Schnelltests für Kindergartenpädagoginnen und –pädagogen;;125000;;;;80500;80500;Bildung;Sachleistung;Non–Profit–Organisationen;
+[S3];Tablets und Software für Distance Learning für Schülerinnen und Schüler an Allgemeinbildenden Pflichtschulen;442032;604475;392573;392573;520417;538355;603828;Bildung;Sachleistung;Privatpersonen, öffentliche Einrichtungen;
+[S4];Schutzausrüstung für Einrichtungen des Sozialbereichs;500000;564100;312300;320000;496450;564100;564100;Gesundheit;Sachleistung;Unternehmen, Non–Profit–Organisationen, öffentliche Einrichtungen;
+[S5];Sonderförderung Bildende Kunst;30000;38871;;;23821;23821;27871;Kunst und Kultur;Zuschuss;Non–Profit–Organisationen;
+[S6];Sonderförderung Darstellende Kunst;400000;619924;;40000;520574;520574;612524;Kunst und Kultur;Zuschuss;Non–Profit–Organisationen;
+[S7];Sonderförderung Film;200000;103475;;;103475;103475;103475;Kunst und Kultur;Zuschuss;Privatpersonen, Unternehmen, Non–Profit–Organisationen;
+[S8];Sonderförderung Kulturelle Veranstaltungen;120000;287310;;;213510;213510;213510;Kunst und Kultur;Zuschuss;Privatpersonen, Non–Profit–Organisationen, öffentliche Einrichtungen;
+[S9];Sonderförderung Kulturelle Zentren;150000;31500;;;31500;31500;31500;Kunst und Kultur;Zuschuss;Non–Profit–Organisationen;
+[S10];Sonderförderung Künstlerinnen und Künstler;600000;515750;;;515750;515750;515750;Kunst und Kultur;Zuschuss;Privatpersonen;
+[S31];Sonderförderung Landesmuseen;;406100;;;406100;406100;406100;Kunst und Kultur;Zuschuss;Non–Profit–Organisationen;
+[S11];Sonderförderung Musikalische Veranstaltungen;500000;102370;;;101970;101970;101970;Kunst und Kultur;Zuschuss;Non–Profit–Organisationen;
+[S12];Sonderförderung Orchester, Ensembles, Chöre;500000;52784;;;52784;52784;52784;Kunst und Kultur;Zuschuss;Non–Profit–Organisationen;
+[S13];Sonderförderung Regionalmuseen: Digitalisierungsprojekte;100000;300000;;;107953;185205;185205;Kunst und Kultur;Zuschuss;Non–Profit–Organisationen, öffentliche Einrichtungen;
+[S14];Sonderförderung Regionalmuseen: Geringfügige Beschäftigung;150000;210000;;;17470;17470;18850;Kunst und Kultur;Zuschuss;Non–Profit–Organisationen, öffentliche Einrichtungen;
+[S15];Sonderförderung Regionalmuseen: Schutzmaßnahmen;100000;36000;7830;15059;18715;19702;19702;Kunst und Kultur;Zuschuss;Unternehmen, Non–Profit–Organisationen, öffentliche Einrichtungen;Forum Salzburger Volkskultur
+[S32];Sonderförderung Landesmuseen;;111344;;;111344;111344;111344;Kunst und Kultur;Einnahmenverzicht;Non–Profit–Organisationen;
+[S16];24–Stunden–Betreuungskräfte–Bonus;750000;712000;241500;654500;703000;712000;712000;Pflege;Zuschuss;Privatpersonen;
+[S33];24–Stunden–Betreuungskräfte – Kostenersatz für Testungen von ausländischen Betreuungskräften;;103563;;;17553;55577;88128;Pflege;Zuschuss;Privatpersonen;
+[S34];Aufwände für das Besuchsmanagement in Seniorenpflegeheimen und stationären Wohneinrichtungen;;2941134;;;;;;Pflege;Zuschuss;Unternehmen (b2 bis b4), Non–Profit–Organisationen;
+[S35];Sonderförderung Corona–Gefahrenzulage ;;100000;;;74933;74933;74933;Soziales;Zuschuss;Non–Profit–Organisationen;
+[S36];Corona–Gefahrenzulage (Soziales, Pflege, Kinderbetreuung und Schulsozialarbeit);;1663258;;;1574857;1663258;1663258;Soziales;Zuschuss;Unternehmen (b2 bis b4), Non–Profit–Organisationen;
+[S17];Ersatzbetreuungseinrichtung;100000;1397225;;97805;236388;417321;423922;Pflege;Zuschuss;Unternehmen;
+[S37];Gewährung von Energiekostenzuschüssen;;400800;;;;;393300;Soziales;Zuschuss;Privatpersonen;
+[S38];Schutzausrüstung für Einrichtungen des Sozialbereichs;;5062569;;;;628459;3194919;Soziales;Zuschuss;Unternehmen (b2 bis b4), Non–Profit–Organisationen;
+[S39];Zuwendungen für Kinder;;242600;;;;230800;242600;Soziales;Zuschuss;Privatpersonen;
+[S40];Corona–Testungen im Spitzensport;;21000;;;20567;22237;22237;Sport;Zuschuss;Non–Profit–Organisationen;
+[S18];Soforthilfefonds – Sport;1107811;1107811;847147;1107811;1112915;1112915;1112915;Sport;Zuschuss;Unternehmen, Non–Profit–Organisationen;
+[S41];Sonderförderung Betrieb CTC Circustrainingscentrum;;34400;;;34400;34400;34400;Sport;Zuschuss;Non–Profit–Organisationen;
+[S42];Mietstundungen – Motorsportbetrieb;;28606;;;28606;28606;28606;Sport;Stundung;Unternehmen (b2);
+[S19];Agrarmarketing, Direktvermarktung;550000;550000;;250000;550000;550000;550000;Land- und Forstwirtschaft;Zuschuss;Non–Profit–Organisationen;
+[S20];Direktzahlungen an Verbände und Vermarktungsorganisationen im landwirtschaftlichen Bereich;360000;356273;78660;83414;356273;356273;356273;Land- und Forstwirtschaft;Zuschuss;Non–Profit–Organisationen;
+[S21];Direktzuschuss an Landwirtinnen und Landwirte mit Rinder–, Schaf– und Ziegenhaltung;3388800;3393001;;3388800;3393001;3393001;3393001;Land- und Forstwirtschaft;Zuschuss;Unternehmen;LWK Salzburg
+[S22];Kurzarbeit für Mitarbeiterinnen und Mitarbeiter der Tourismusverbände;1000000;1000000;;305285;305285;305285;577067;Tourismus und Gastronomie;Zuschuss;Verbände;
+[S43];Liquiditätsunterstützung von Tourismusverbänden – Zinsübernahme für Bankdarlehen;;2500000;;;;;;Tourismus und Gastronomie;Zuschuss;Verbände;
+[S23];Marketingoffensive SLTG unter Berücksichtigung des Einnahmenentfalls;5500000;5500000;;2000000;5500000;5500000;5500000;Tourismus und Gastronomie;Zuschuss;Unternehmen;
+[S44];Unterstützungspaket Salzburger Thermen;;1600000;;;;;;Tourismus und Gastronomie;Zuschuss;Unternehmen (b1);
+[S24];Wachstumsprogramm für Kleinbetriebe;5000000;5000000;;134005;2055157;3597213;4819289;Tourismus und Gastronomie;Zuschuss;Unternehmen (b1 bis b3);
+[S25];Zinsenzuschuss für ÖHT–Überbrückungskredite;10000000;4000000;;;583012;583012;583012;Tourismus und Gastronomie;Zuschuss;Unternehmen;
+[S45];Liquiditätsunterstützung von Tourismusverbänden;;30000000;;;;;;Tourismus und Gastronomie;Haftung bzw. Garantie;Verbände;
+[S26];Unterstützungspaket für Tourismusbetriebe;20000000;20000000;;1629540;1629540;1629540;1629540;Tourismus und Gastronomie;Stundung;Unternehmen;
+[S46];Mietverzichte – Restaurants, Geschäfte und Museen;;169096;;;169096;169096;169096;Wirtschaft;Einnahmenverzicht;Unternehmen (b1 bis b5), Non–Profit–Organisationen;
+[St1];Corona–Sofortmaßnahmen – Corona–Stiftung;20000000;20000000;;306359;5481630;5481630;8762703;Arbeitsmarkt;Zuschuss;Non–Profit–Organisationen;
+[St2];Ersatz für die ausgesetzten Elternbeiträge in Kinderbildungs– und –betreuungseinrichtungen;10000000;10000000;;6050852;6050852;6050852;6050852;Bildung;Zuschuss;Non–Profit–Organisationen, öffentliche Einrichtungen;
+[St36];Landeszuschuss für Gemeinden im Rahmen der COVID–19–Pandemie;;68600000;;;2031917;5345217;7650241;Finanzausgleich;Zuschuss;öffentliche Einrichtungen;
+[St3];COVID–19 Futterspenden;37750;80250;37750;37750;37750;37750;80250;Gesundheit;Zuschuss;Privatpersonen, Non–Profit–Organisationen;
+[St37];COVID–19 Schutzausrüstung;;8500000;;;;;;Gesundheit;Zuschuss;Non–Profit–Organisationen;
+[St4];Kostenbeitrag für COVID–19–Schutzmaßnahmen der Gemeinden in Zusammenhang mit den Gemeinderatswahlen;562867;562867;562867;562867;562867;562867;562867;Gesundheit;Zuschuss;Gemeinden;
+[St38];Schutzausrüstung für Pflegeheime;;15500000;;;1099716;1199935;1200387;Gesundheit;Zuschuss;Non–Profit–Organisationen;
+[St5];Beschaffung und kostenlose Weiterverteilung von Schutzausrüstung;5000000;5000000;2505694;4459866;5000000;5000000;5000000;Gesundheit;Sachleistung;Unternehmen, Non–Profit–Organisationen, öffentliche Einrichtungen;
+[St6];COVID–19–Maßnahmenpaket für mehrjährige FörderungsvertragspartnerInnen;131940;131940;;;;;;Kunst und Kultur;Zuschuss;Unternehmen (b2 und b3), Non–Profit–Organisationen;
+[St7];COVID–19–Sondereinreichtermin für Projekte im Kunst– und Kulturbereich;400000;403915;;;399915;399915;403915;Kunst und Kultur;Zuschuss;Unternehmen (b1 bis b3), Non–Profit–Organisationen;
+[St8];COVID–19–Sonderförderungsprogramm für Tourneen, Wiederaufnahmen und Lesungen;100000;100000;;9450;29350;59250;59250;Kunst und Kultur;Zuschuss;Unternehmen (b1 bis b3), Non–Profit–Organisationen;
+[St9];Erhöhung des Budgets für Ankauf von Kunstgegenständen;200000;200000;;;193523;193523;193523;Kunst und Kultur;Zuschuss;Unternehmen (b1 und b2);
+[St10];Härtefonds für Kultur und Sport;690000;690000;12342;17139;22643;22643;22643;Kunst und Kultur;Zuschuss;Unternehmen (b1);
+[St11];Kunstraum Steiermark Stipendien;144000;144000;;;;18000;36000;Kunst und Kultur;Zuschuss;Privatpersonen;
+[St12];Museums–Call für die steirischen Regionalmuseen;300000;300000;;;291000;291000;291000;Kunst und Kultur;Zuschuss;Unternehmen (b1 und b2), Non–Profit–Organisationen;
+[St13];Ausgaben für stationären und teilstationären Bereich in der Behinderten–, Kinder– und Jugendhilfe;23460000;;;;;;;Soziales;Zuschuss;Non–Profit–Organisationen;
+[St14];Ausgaben im mobilen Bereich in der Behindertenhilfe und Kinder– und Jugendhilfe;8520000;;;;;;;Soziales;Zuschuss;Non–Profit–Organisationen;
+[St15];Corona–Sofortmaßnahmen – Existenzsicherung;140000;140000;140000;140000;140000;140000;120991;Soziales;Zuschuss;Non–Profit–Organisationen;
+[St16];Corona–Sofortmaßnahmen – Hilfe in besonderen Lebenslagen;250000;250000;2150;7995;12050;16727;17127;Soziales;Zuschuss;Privatpersonen;
+[St17];Corona–Sofortmaßnahmen – Kautionsfonds;500000;500000;174367;284787;475730;500000;500000;Soziales;Zuschuss;Non–Profit–Organisationen;
+[St18];Corona–Sofortmaßnahmen – Zusätzliche Mittel für Schuldnerberatung;150000;150000;150000;150000;150000;150000;150000;Soziales;Zuschuss;Privatpersonen;
+[St39];Verlustausgleich für Leistungsanbieter in der Behindertenhilfe;;1000000;;;;;;Soziales;Zuschuss;Non–Profit–Organisationen;
+[St19];Zebra–Hotline;11617;15170;9171;11617;15170;15170;12129;Soziales;Zuschuss;Non–Profit–Organisationen;
+[St40];Beitragsbefreiung für Menschen mit Behinderung;;535200;;;;;;Soziales;Einnahmenverzicht;Privatpersonen;
+[St20];Aufrechterhaltung des Breiten– und Spitzensports und der Vereinsstrukturen in der Steiermark;2000000;2000000;;;93728;132923;280032;Sport;Zuschuss;Non–Profit–Organisationen;
+[St21];Arbeitskoordination für Erntehelferinnen und Erntehelfer und Hilfestellung für die Landwirtschaftskammer für die Härtefallkoordination;200000;200000;100000;100000;200000;200000;200000;Wirtschaft;Zuschuss;Landwirtschaftskammer, Non–Profit–Organisationen;
+[St22];COVID–19 Durchführungsbestimmungen für die soziale Betriebshilfe (Notstandshilfe für besondere Härtefälle);200000;300000;;;30251;30251;30251;Wirtschaft;Zuschuss;land– und forstwirtschaftliche Betriebe;Maschinenring Steiermark
+[St23];COVID–19 Schlachtrinder;1748400;1748400;;1651770;1681432;1681432;1681432;Wirtschaft;Zuschuss;land– und forstwirtschaftliche Betriebe;"EZG „Steirisches Rind“ Vertriebs–GmbH; Rinderzucht Steiermark eG"
+[St24];COVID–19 Telearbeit!Offensive;2500000;5109304;583580;2327755;4284365;5109304;5109304;Wirtschaft;Zuschuss;Unternehmen (b1 bis b4);SFG
+[St25];COVID–19 Zuchtrinder;251600;251600;;236500;240630;240630;240630;Wirtschaft;Zuschuss;land– und forstwirtschaftliche Betriebe;Rinderzucht Steiermark eG
+[St26];Entschädigungsverfahren für unverschuldet in Not geratene landwirtschaftliche Betriebe;100000;100000;2500;23851;30251;30251;30251;Wirtschaft;Zuschuss;land– und forstwirtschaftliche Betriebe;
+[St27];Holz– und Forstsektor;900000;900000;;271149;519090;548565;550461;Wirtschaft;Zuschuss;Privatpersonen, Unternehmen (b1 bis b4), forstwirtschaftliche Betriebe;
+[St41];Investitionsförderung für Hotellerie– und Gastronomiebetriebe;;6000000;;;2757768;3584807;3584807;Tourismus und Gastronomie;Zuschuss;Unternehmen (b2 bis b4);
+[St28];Steirischer Härtefallfonds;750000;750000;;;1500;9000;9000;Wirtschaft;Zuschuss;Unternehmen (b1 bis b4);SFG
+[St29];Zinsenzuschuss für ÖHT–Überbrückungskredite;8130000;8130000;1017729;2117350;2310430;2591312;2595142;Tourismus und Gastronomie;Zuschuss;Unternehmen (b1 bis b4);
+[St30];Zinsenzuschuss zur außerordentlichen Stundung des Agrarinvestitionskredits;420000;420000;;;;13042;17869;Wirtschaft;Zuschuss;landwirtschaftliche Betriebe;
+[St31];Zinsenzuschuss zur Überbrückungsfinanzierung AWS;33580000;33580000;1254524;3571385;5052919;5162622;5251835;Wirtschaft;Zuschuss;Unternehmen;SFG
+[St32];Zinsenzuschuss zur Überbrückungsfinanzierung für land– und forstwirtschaftliche Betriebe;500000;500000;;;;1635;1635;Wirtschaft;Zuschuss;land– und forstwirtschaftliche Betriebe;
+[St33];Mietzinsreduktion für Unternehmen;93702;141820;66178;66178;95038;95038;107188;Wirtschaft;Einnahmenverzicht;Unternehmen (b1 bis b4);
+[St42];Unterstützung für betroffene Unternehmen in Landesimmobilien;;80758;;;;;;Wirtschaft;Einnahmenverzicht;Unternehmen (b1 bis b3);
+[St34];Stundung von Mietzinsen;35950;63450;35950;35950;35950;35950;63450;Wirtschaft;Stundung;Unternehmen (b1 bis b4);
+[St43];Joanneum Research Forschungsgesellschaft mbH – Gesellschafterzuschuss;;200000;;;200000;200000;200000;Wissenschaft und Forschung;Zuschuss;Unternehmen;
+[St35];Stundung von Landesabgaben;;;;;;;;keine Beschränkung;Stundung;Privatpersonen, Unternehmen, Non–Profit–Organisationen, öffentliche Einrichtungen;
+[T1];COVID–19 Arbeitsmarktpolitische Maßnahmen;3721480;1984600;17767;23762;189262;189262;189262;Arbeitsmarkt;Zuschuss;Non–Profit–Organisationen;
+[T2];Bildungskarenz Plus;2900000;2890000;;;;695;9385;Arbeitsmarkt;Zuschuss;Unternehmen;
+[T3];Deutschkurse – Arbeitsmarktkonnex, Sommer und Kinder;1000000;1000000;;18358;58225;105927;201331;Arbeitsmarkt;Zuschuss;Non–Profit–Organisationen;
+[T4];Gemeindenahes Beschäftigungsprogramm;870000;870000;;;;;;Arbeitsmarkt;Zuschuss;Non–Profit–Organisationen, öffentliche Einrichtungen;
+[T5];Insolvenzstiftung;1937500;3229600;;;;;;Arbeitsmarkt;Zuschuss;Non–Profit–Organisationen;
+[T6];Zusätzliche Mittel für einen flexiblen Einsatz im Zusammenhang mit Individualförderungen und arbeitsmarktbezogenen Projekten;2756200;864700;;;;;156000;Arbeitsmarkt;Zuschuss;Privatpersonen, Non–Profit–Organisationen;
+[T7];COVID–19 Maßnahmen für Kinderbetreuung;1317534;1317534;958259;1317534;1317534;1317534;1317534;Bildung;Zuschuss;Non–Profit–Organisationen;
+[T8];COVID–19 Maßnahmen für Tagesbetreuung, Kinder– und Spielgruppen;183523;183523;123537;183523;183523;183523;183523;Bildung;Zuschuss;Non–Profit–Organisationen;
+[T9];Tiroler Digi–Scheck;3200000;3290000;351105;404764;597684;662148;787369;Bildung;Zuschuss;Privatpersonen;
+[T10];Familienpolitische Maßnahmen;2000000;2750000;62764;339775;462254;462254;462254;Familie;Zuschuss;Privatpersonen;
+[T11];COVID–19 Entlastungspaket für die Tiroler Gemeinden – Finanzhilfe für Investitionsvorhaben;40000000;40000000;;;25588559;25588559;26795499;Finanzausgleich;Zuschuss;Gemeinden und Gemeindeverbände;
+[T12];COVID–19 Entlastungspaket für die Tiroler Gemeinden – Finanzzuweisung;30000000;30000000;;30000000;30000000;30000000;30000000;Finanzausgleich;Zuschuss;Gemeinden;
+[T13];COVID–19 Kunst und Kultur im digitalen Raum;500000;500000;;6900;40469;166869;340569;Kunst und Kultur;Zuschuss;Privatpersonen, Unternehmen, Non–Profit–Organisationen, öffentliche Einrichtungen;
+[T14];COVID 19 Soforthilfe Kultur;4500000;4500000;579602;716652;1083557;2428457;2483134;Kunst und Kultur;Zuschuss;Privatpersonen, Unternehmen, Non–Profit–Organisationen, öffentliche Einrichtungen;
+[T15];COVID–19 Sonderförderung Theater;500000;500000;;8000;18200;27700;58200;Kunst und Kultur;Zuschuss;Privatpersonen, Unternehmen, Non–Profit–Organisationen, öffentliche Einrichtungen;
+[T16];COVID–19 Sonderprojekte zum Neustart;1000000;1000000;;71000;139022;224222;443612;Kunst und Kultur;Zuschuss;Privatpersonen, Unternehmen, Non–Profit–Organisationen, öffentliche Einrichtungen;
+[T17];Förderprogramme Tiroler Traditionskultur;200000;200000;;138503;183583;183583;183583;Kunst und Kultur;Zuschuss;Privatpersonen, Non–Profit–Organisationen;Tiroler Volksmusikverein
+[T18];Sommermusikwoche an Tiroler Landesmusikschulen;73396;73396;;73396;73396;73396;73396;Kunst und Kultur;Sachleistung;Privatpersonen;
+[T19];Mietverzicht kulturelle Einrichtungen;5363;5363;5363;5363;5363;5363;5363;Kunst und Kultur;Einnahmenverzicht;öffentliche Einrichtungen;
+[T20];Treuebonus für Kunden der VVT GmbH;3937000;3937000;548775;1193198;1639891;2126774;2241032;Mobilität;Zuschuss;Privatpersonen;
+[T21];Fixkostenrückerstattung TÜV–Süd;59768;59768;59768;59768;59768;59768;59768;Mobilität;Einnahmenverzicht;Unternehmen (b3);
+[T22];24–Stunden–Betreuungskräfte–Bonus;900000;900000;294000;706000;732000;734000;734000;Pflege;Zuschuss;Privatpersonen;
+[T55];Abgeltung der Aufwendungen für Schutzausrüstung für Dienstleister der Behindertenhilfe;;2500000;;;232782;232782;725093;Soziales;Zuschuss;Non–Profit–Organisationen;
+[T23];Aufstockung Schuldenberatung Tirol für vermehrte Beratungsleistungen;250000;250000;;;;;;Soziales;Zuschuss;Unternehmen;
+[T24];Ausbau ambulanter Suchthilfe;500000;500000;;190354;190354;565354;565354;Soziales;Zuschuss;Non–Profit–Organisationen;
+[T56];Bezuschussung von Personal– und Sachaufwandskosten für den Betrieb einer Ersatzbetreuungseinrichtung positiv auf COVID–19 getesteter Menschen mit Behinderung;;136500;;;;;5974;Soziales;Zuschuss;Non–Profit–Organisationen;
+[T25];Corona Gefahrenzulage für Arbeitnehmerinnen und –nehmer von Trägern bestimmter sozialer Einrichtungen der Mindestsicherung und der Behindertenhilfe;1700000;1715000;;505922;1250854;1250854;1250854;Soziales;Zuschuss;Privatpersonen, Unternehmen (b1 bis b4), Non–Profit–Organisationen, öffentliche Einrichtungen;
+[T26];Corona Härtefallfonds für Arbeitnehmerinnen und –nehmer, Arbeitslose, Alleinerziehende und deren Familien;9000000;9000000;973000;2129900;2976600;4040890;5442890;Soziales;Zuschuss;Privatpersonen;
+[T27];COVID–19 – Energiekostenzuschuss;1000000;1000000;;639600;948600;1032600;1034100;Soziales;Zuschuss;Privatpersonen;
+[T28];COVID–19 Maßnahmen im Bereich Frauen;50000;50000;;;4381;6812;9512;Soziales;Zuschuss;Non–Profit–Organisationen;
+[T29];COVID–19 Maßnahmen im Bereich Integration;50000;50000;;10800;52643;77739;83543;Soziales;Zuschuss;Non–Profit–Organisationen;
+[T30];Erhöhung Budgetmittel für Kinder– und Jugendhilfe;348075;348075;;125933;125933;125933;125933;Soziales;Zuschuss;Unternehmen, Non–Profit–Organisationen;
+[T31];Frauenhaus Oberland;250000;437500;;;250000;375000;437500;Soziales;Zuschuss;Non–Profit–Organisationen;
+[T32];Mitfinanzierung der Entwicklung und Implementierung psychosozialer Zentren;2500000;2500000;;;;;;Soziales;Zuschuss;Non–Profit–Organisationen;
+[T33];Projekt Regional 27 Bonuszahlung COVID–19 in den Pflege– und Gesundheitsberufen;3175000;7933000;;896557;6931597;6931597;6931597;Pflege;Zuschuss;Privatpersonen;
+[T34];Sozialberatungsstelle Unterland;250000;187500;;;;125000;187500;Soziales;Zuschuss;Non–Profit–Organisationen;
+[T57];Unterstützungsleistung für das Evangelische Diakoniewerk Gallneukirchen „Integrierte Versorgung von Kindern und Jugendlichen mit Entwicklungsstörungen“;;86667;;;;40000;45859;Soziales;Zuschuss;Non–Profit–Organisationen;
+[T35];Mietverzicht für soziale Einrichtungen;;;;;;;;Soziales;Einnahmenverzicht;Non–Profit–Organisationen;
+[T58];Einnahmenausfälle bei Eintrittsgeldern und Kantinenerlösen im Sportbereich;;509100;;;;;509100;Sport;Zuschuss;Non–Profit–Organisationen;
+[T36];Unterstützung der medizinischen und klinischen Forschung im Bereich COVID–19;3190580;3190580;;683740;683740;727000;727000;Wissenschaft und Forschung;Zuschuss;Universitäten;FWF
+[T37];COVID–19 Entlastungspaket für die Tiroler Unternehmerschaft – Budgetunterstützung für Tourismusverbände;20000000;20000000;;20000000;20000000;20000000;20000000;Tourismus und Gastronomie;Zuschuss;Verbände;
+[T59];COVID–19 Entlastungspaket für die Tiroler Unternehmerschaft – Budgetunterstützung für Tourismusverbände – 2021;;40000000;;;;;40000000;Tourismus und Gastronomie;Zuschuss;Verbände;
+[T38];COVID–19 Konjunkturpaket Schutzhütten;1000000;1000000;;1100;23222;44477;59317;Tourismus und Gastronomie;Zuschuss;Privatpersonen, Unternehmen, Non–Profit–Organisationen, öffentliche Einrichtungen;
+[T39];COVID–19 Maßnahmenpaket für Tirols Wälder;1500000;1500000;;76494;1500000;1500000;1500000;Wirtschaft;Zuschuss;Privatpersonen, Unternehmen, Non–Profit–Organisationen, öffentliche Einrichtungen;
+[T40];COVID–19 Sofortmaßnahmen – Tiroler Beratungsförderung;500000;500000;7498;135394;238953;455954;974662;Wirtschaft;Zuschuss;Unternehmen;WKT
+[T60];COVID–19 Unterstützungsfonds für Beherbungsbetriebe;;4000000;;;;3009000;3618000;Tourismus und Gastronomie;Zuschuss;Unternehmen (b1 und b2);
+[T41];Erhöhung der Budgetmittel für Digitalisierungsmaßnahmen;3500000;3500000;;;;;220150;Wirtschaft;Zuschuss;Privatpersonen, Unternehmen, Non–Profit–Organisationen, öffentliche Einrichtungen;aws
+[T42];Erhöhung der Budgetmittel für Digitalisierungsmaßnahmen – Leuchtturmprojekte;1000000;1000000;;;;;;Wirtschaft;Zuschuss;Privatpersonen, Unternehmen, Non–Profit–Organisationen, öffentliche Einrichtungen;
+[T61];Fixkostenzuschuss für Skigebiete (wenn weder Anspruch auf Unterstützung aus dem Härtefallfonds noch auf den Fixkostenzuschuss des Bundes besteht);;2500000;;;;;;Tourismus und Gastronomie;Zuschuss;öffentliche Einrichtungen;
+[T43];Förderung von Homeoffice–Arbeitsplätzen;1500000;1500000;246800;505682;622937;891849;1120405;Wirtschaft;Zuschuss;Unternehmen (b1 bis b4);
+[T44];Tiroler Privatvermieterförderung und Unterstützung für kleine gewerbliche Beherbergungsbetriebe;300000;300000;;;1000;94886;189520;Tourismus und Gastronomie;Zuschuss;Unternehmen (Privatzimmervermietung, kleine Beherbergungsbetriebe);
+[T45];Tiroler Tourismusförderung;2000000;4300000;;;51625;61625;351022;Tourismus und Gastronomie;Zuschuss;Unternehmen (b1 bis b4);
+[T46];Tiroler Unterstützungsfonds für Selbstständige;4000000;736000;;272000;568000;736000;736000;Wirtschaft;Zuschuss;Unternehmen (b1 bis b4);Standortagentur Tirol GmbH
+[T47];Unterstützungspaket für Arbeitnehmerinnen und Arbeitnehmer der Tiroler Tourismusverbände;4000000;4000000;;;4000000;4000000;4000000;Tourismus und Gastronomie;Zuschuss;Verbände;
+[T62];Unterstützungspaket für Arbeitnehmerinnen und Arbeitnehmer der Tiroler Tourismusverbände – 2021;;4000000;;;;;4000000;Tourismus und Gastronomie;Zuschuss;Verbände;
+[T48];Unterstützungspaket für Marketingmittel der Tirol Werbung;4000000;4000000;;;;;;Tourismus und Gastronomie;Zuschuss;Unternehmen;
+[T49];Wachstumsoffensive für Kleinstbetriebe;1500000;1500000;;;17803;171756;573978;Wirtschaft;Zuschuss;Unternehmen (b1 und b2);
+[T50];Zinsenzuschuss für AWS–Überbrückungskredite;8400000;8400000;3061480;4660042;5646924;6128130;6884911;Wirtschaft;Zuschuss;Unternehmen (b1 bis b4);
+[T51];Zinsenzuschuss für ÖHT–Überbrückungskredite;3600000;3600000;1061803;2035841;2474699;2794169;3126088;Tourismus und Gastronomie;Zuschuss;Unternehmen (b1 bis b4);
+[T52];Zuchtverbesserung in der Tiroler Rinderzucht;750000;750000;117450;362850;1166700;1166700;1166700;Wirtschaft;Zuschuss;Privatpersonen, Unternehmen (b1 bis b3);
+[T63];Stundungen von Mieten;;47936;;;32096;40016;40016;Wirtschaft;Stundung;Unternehmen (b2), öffentliche Einrichtungen;
+[T53];COVID–19 Entlastungspaket für die Tiroler Unternehmerschaft – Reduktion der Pflichtbeitragsleistungen nach dem Tourismusgesetz;30000000;70000000;;34746589;34746589;34746589;75764401;Wirtschaft;Einnahmenverzicht;Unternehmen;
+[T64];Mietverzicht – Gastronomie;;438;;;438;438;438;Wirtschaft;Einnahmenverzicht;Unternehmen (b2);
+[T54];Mietverzicht für Unternehmer;8685;8685;8685;8685;8685;8685;8685;Wirtschaft;Einnahmenverzicht;Unternehmen;
+[V1];Abgeltung entgangener Elternbeiträge – Elementarpädagogik;1827100;2855100;;874388;1077835;1281835;1285557;Bildung;Zuschuss;Non–Profit–Organisationen, öffentliche Einrichtungen;
+[V2];Abgeltung entgangener Elternbeiträge – Schülerbetreuung;300000;596500;;294556;370975;479490;479490;Bildung;Zuschuss;Non–Profit–Organisationen, öffentliche Einrichtungen;
+[V48];Abgeltung entgangener Elternbeiträge – Tageseltern;;4323;;;;;4323;Bildung;Zuschuss;Non–Profit–Organisationen;
+[V49];COVID–19–Gefahrenzulage in elementarpädagogischen Einrichtungen;;148140;;;133020;133020;133020;Bildung;Zuschuss;Non–Profit–Organisationen;
+[V3];Erhöhung Personalkostenförderung der öffentlichen und privaten Anbieter von Schülerbetreuungen;125000;125000;;;46988;46988;46988;Bildung;Zuschuss;Privatpersonen, Non–Profit–Organisationen, öffentliche Einrichtungen;
+[V4];Erhöhung Personalkostenförderung in elementarpädagogischen Einrichtungen;1451120;1451120;;;848295;848295;848295;Bildung;Zuschuss;Non–Profit–Organisationen, öffentliche Einrichtungen;
+[V5];Ersatz für entgangene Elternbeiträge bei den Musikschulen;800000;674085;;674085;674085;674085;674085;Bildung;Zuschuss;Non–Profit–Organisationen, öffentliche Einrichtungen;
+[V6];Förderung der Lerncafés der Caritas;289690;289690;;144845;144845;144845;144845;Bildung;Zuschuss;Non–Profit–Organisationen;
+[V7];Förderung der Sommerbetreuung – Elementarpädagogik;1200000;1200000;;144023;505155;505155;505155;Bildung;Zuschuss;Privatpersonen;
+[V8];Förderung der Sommerbetreuung – Schülerbetreuung;800000;895000;;;86388;86388;86388;Bildung;Zuschuss;Privatpersonen;
+[V50];Förderung des elementarpädagogischen Personals während COVID–19–Testungen;;437400;;;;;27319;Bildung;Zuschuss;Non–Profit–Organisationen, öffentliche Einrichtungen;
+[V51];Förderung von freigestelltem Personal in elementarpädagogischen Einrichtungen;;261000;;;5236;5236;15850;Bildung;Zuschuss;Non–Profit–Organisationen;
+[V52];Nachhilfe – Sonderförderung im Rahmen der Sommerkurse an bestimmten Volkshochschulen;;90000;;;;;;Bildung;Zuschuss;Non–Profit–Organisationen;
+[V9];Sonderförderung für Nachhilfe im Rahmen der Sommerkurse an den VHS Bregenz, Bludenz und Götzis;100000;100000;;69156;79480;79480;79480;Bildung;Zuschuss;Privatpersonen;
+[V10];Instandsetzung bzw. Beschaffung von gebrauchten Computern und Routern für Schülerinnen und Schüler mit Bedarf;24671;24671;24671;24671;24671;24671;24671;Bildung;Sachleistung;Privatpersonen;
+[V53];Soforthilfe für Vorarlberger Gemeinden wegen COVID–19–bedingter Einnahmenverluste;;10000000;;;10000000;10000000;10000000;Finanzausgleich;Zuschuss;öffentliche Einrichtungen;
+[V11];Schutzmaterial für das Personal in Langzeiteinrichtungen, Hauskrankenpflege und mobilen Hilfsdiensten;;2253188;80063;712739;1382104;1548303;2253188;Gesundheit;Sachleistung;Unternehmen (b3 und b4), öffentliche Einrichtungen;
+[V12];Arbeitsstipendien: Unterstützung von Kunstschaffenden in ihren Prozessen;380000;830000;310420;379140;456000;684000;786000;Kunst und Kultur;Zuschuss;Privatpersonen;
+[V13];Aufstockung Atelierförderung;120000;190000;74980;95040;92340;129060;187380;Kunst und Kultur;Zuschuss;Privatpersonen;
+[V14];Förderinitiative Impulsprojekte COVID–19;100000;195000;;41013;81551;93749;99294;Kunst und Kultur;Zuschuss;Privatpersonen, Unternehmen, Non–Profit–Organisationen, öffentliche Einrichtungen;
+[V15];Förderinitiative Kultur im Jetzt;250000;385000;4000;53440;156232;164232;193232;Kunst und Kultur;Zuschuss;Gemeinden;
+[V54];Förderinitiative Kunst und Kultur im digitalen Raum – Call 2021;;57000;;;;;;Kunst und Kultur;Zuschuss;Privatpersonen, Non–Profit–Organisationen, öffentliche Einrichtungen;
+[V16];Gewährung von Zuschüssen für Unternehmungen im Gelegenheitsverkehr mit Autobussen;514000;514000;;513867;513867;513867;513867;Mobilität;Zuschuss;Unternehmen;
+[V17];VVV Familienaktion für den Sommer mit dem Familienpass;63000;524000;;84500;169000;169000;346500;Mobilität;Zuschuss;Privatpersonen;
+[V18];24–Stunden–Betreuungskräfte–Bonus;1700000;1700000;816000;1041000;1136500;1137000;1137000;Pflege;Zuschuss;Privatpersonen;
+[V19];24–Stunden–Betreuungskräfte – Refundierung der PCR–Testkosten;1113500;1113500;;;150976;215732;276142;Pflege;Zuschuss;Privatpersonen, Unternehmen;
+[V55];Akontierungen für Non–Profit–Organisationen – Betreuungstätigkeiten;;602665;;;602665;602665;602665;Soziales;Zuschuss;Non–Profit–Organisationen;
+[V20];Ausweitung der telefonischen Erreichbarkeit des Sozialpsychiatrischen Dienstes;36076;36076;36076;36076;36076;36076;36076;Soziales;Zuschuss;Non–Profit–Organisationen;
+[V56];Ferienbetreuung;;10013;;;10013;10013;10013;Soziales;Zuschuss;Non–Profit–Organisationen;
+[V21];Finanzierung der Übernahme von psychisch kranken und suchtkranken Menschen vom LKH Rankweil in vollbetreutes Wohnen und Übergangswohnen;146280;146280;61918;74379;74379;74379;74379;Soziales;Zuschuss;öffentliche Einrichtungen;
+[V22];Gefahrenzulage für das Personal in Pflegeeinrichtungen, Hauskrankenpflege und Mobile Hilfsdienste;900000;1001100;;;1001100;1001100;1001100;Pflege;Zuschuss;Unternehmen, Non–Profit–Organisationen, öffentliche Einrichtungen;
+[V23];Härtefonds für Arbeitnehmerinnen und Arbeitnehmer;1500000;1500000;14890;;196082;196082;196082;Soziales;Zuschuss;Privatpersonen;AK Vorarlberg
+[V57];Kostenausgleiche für Mindererlöse und Nichtleistungen von Non–Profit–Organisationen;;2314330;;;58869;58869;2314330;Soziales;Zuschuss;Non–Profit–Organisationen;
+[V24];Notbetten in Pflegeheimen für den Ausfall der 24–Stunden–Pflege;;;;;;;;Pflege;Zuschuss;Unternehmen (b3 und b4);
+[V58];Studienheim – Wohnen mit Tagesbetreuung;;22228;;;13747;17353;22228;Soziales;Zuschuss;Non–Profit–Organisationen;
+[V59];Testungen COVID–19 in Einrichtungen der Sozialpsychiatrie und Suchtkrankenhilfe sowie Dokumentationsaufwand für Antigen Tests;;244909;;;41634;44254;244909;Soziales;Zuschuss;Non–Profit–Organisationen;
+[V25];Wohnkostenzuschuss der Arbeiterkammer Vorarlberg;3000000;392096;329195;372664;392096;392096;392096;Soziales;Zuschuss;Privatpersonen;AK Vorarlberg
+[V60];Zusätzliche Leistungen für vollbetreutes Wohnen und betreutes Arbeiten;;124232;;;79658;102942;124232;Soziales;Zuschuss;Non–Profit–Organisationen;
+[V26];Anfahrts– und Personalkosten für Vor–Ort–PCR–Testungen im Bereich Pflege;56532;127300;52000;56532;100800;124200;127300;Pflege;Sachleistung;Privatpersonen;
+[V27];Case Management Ausweitung: Journaldienste an Wochenenden;33308;33308;20815;33308;33308;33308;33308;Pflege;Sachleistung;Privatpersonen, öffentliche Einrichtungen;
+[V28];Mehrstunden Mobile Hilfsdienste zur stundenweisen Entlastung von 24–Stunden–Betreuungskräften und pflegenden Angehörigen;220640;220640;;47723;47723;47723;47723;Pflege;Sachleistung;Privatpersonen;
+[V29];Mobile Hilfsdienste: Unterstützung in Pflegeheimen und Sozialzentren bei den Kontrollen bei den Checkpoints;147000;298123;;65594;130360;185709;298123;Pflege;Sachleistung;Unternehmen (b3 und b4), öffentliche Einrichtungen;
+[V30];Quarantäneunterkünfte für 24–Stunden–Betreuungskräfte für Ausfälle bzw. Testungen;52384;231990;45618;45618;209711;216344;231990;Pflege;Sachleistung;Privatpersonen;
+[V31];Zurverfügungstellung von Amtssachverständigen und Mitarbeiterinnen sowie Mitarbeitern für Ersatzbetreuungsquartiere;25937;51417;25937;25937;51417;51417;51417;Pflege;Sachleistung;öffentliche Einrichtungen;
+[V32];Haftung für Kleinkredite;4000000;4000000;18800;32000;45000;50000;50000;Soziales;Haftung bzw. Garantie;Privatpersonen;
+[V33];Wohnbauförderung;105589;146461;91873;105589;127905;143705;146461;Soziales;Stundung;Privatpersonen;
+[V61];Einnahmenausfälle von Sportvereinen, –verbänden und sonstigen Sportorganisationen;;1000000;;;98563;146903;164238;Sport;Zuschuss;Non–Profit–Organisationen;
+[V34];COVID–19 Aufstockung Vorarlberger Waldfonds;750000;750000;;280206;750000;750000;750000;Wirtschaft;Zuschuss;Privatpersonen, Unternehmen (b2 und b3), Non–Profit–Organisationen, öffentliche Einrichtungen;
+[V35];COVID–19 Unterstützungsfonds;1500000;1500000;18250;44663;46413;46413;46413;Wirtschaft;Zuschuss;Unternehmen (b1 und b2), sonstige (neue Selbstständige und freiberuflich Tätige);WK Vorarlberg
+[V36];Beratungszuschuss: Betriebswirtschaftliche Beratung für Unternehmen;150000;150000;15532;28883;42490;42490;42490;Wirtschaft;Zuschuss;Unternehmen;WK Vorarlberg
+[V37];Innovationen „Landwirt.schafft.Neues“;100000;100000;;27720;55820;55820;55820;Wirtschaft;Zuschuss;land– und forstwirtschaftliche Betriebe;
+[V38];Investitionsprämie für gewerbliche Beherbergungs– und Gastronomiebetriebe;15000000;15000000;11418140;13901197;13939903;13939903;13939903;Wirtschaft;Zuschuss;Unternehmen;
+[V39];Projekte zur Stärkung der Versorgungsstrukturen für regionale Produktion im Bereich Gemüse und Fleisch;250000;250000;;;30000;51558;85413;Wirtschaft;Zuschuss;Unternehmen;
+[V40];Regionalität in aller Munde;70000;70000;;;;13735;13735;Wirtschaft;Zuschuss;Landwirtschaftskammer;
+[V41];Schlachtmöglichkeit für die regionale Produktion sicherstellen;150000;150000;;;70000;80846;138134;Wirtschaft;Zuschuss;Unternehmen;
+[V42];Sonderprojektförderung;500000;500000;100000;100000;123500;223500;223500;Wirtschaft;Zuschuss;Unternehmen;
+[V43];Stabilisierung des Kalb– und Rindfleischmarktes;350000;400000;;211013;291163;291163;361963;Wirtschaft;Zuschuss;landwirtschaftliche Betriebe;
+[V62];Stärkung der Vorarlberger Sennalpen wegen Umsatzeinbußen;;151950;;;150240;151950;151950;Land- und Forstwirtschaft;Zuschuss;Privatpersonen;
+[V44];V–Card: Familienaktion für den Sommer mit dem Familienpass;520000;494907;;463300;494907;494907;494907;Tourismus und Gastronomie;Zuschuss;Privatpersonen;
+[V45];Zuschüsse für Reisebüros;400000;400000;;46664;115619;115619;135924;Tourismus und Gastronomie;Zuschuss;Unternehmen;
+[V46];Zuschuss zur Errichtung einer Kühlhalle für Gemüse;81000;81648;;81648;81648;81648;81648;Wirtschaft;Zuschuss;Genossenschaft;
+[V47];Haftung für Mikrokredite;4000000;4000000;743200;839000;965500;1094000;1094000;Wirtschaft;Haftung bzw. Garantie;Unternehmen (b1 und b2), sonstige (neue Selbstständige und freiberuflich Tätige);
+[W1];Auszahlung der Förderung für Kindergärten trotz mehr als vierwöchiger durchgehender Abwesenheit eines Kindes;126000000;126000000;97911971;97911971;97911971;97911971;97911971;Bildung;Zuschuss;Non–Profit–Organisationen;
+[W2];Ersatz der rückerstatteten Essensbeiträge an private elementare Bildungseinrichtungen;4500000;4500000;3992820;3992820;3992820;3992820;3992820;Bildung;Zuschuss;Non–Profit–Organisationen;
+[W29];Ersatz der rückerstatteten Essens– und Hortbesuchsbeiträge an private elementare Bildungseinrichtungen für die Monate November 2020 bis Jänner 2021;;8500000;;;;;5050639;Bildung;Zuschuss;Non–Profit–Organisationen;
+[W3];Ersatz der rückerstatteten Hortbetreuungsbeiträge an private elementare Bildungseinrichtungen;8000000;8000000;7417712;7417712;7417712;7417712;7417712;Bildung;Zuschuss;Non–Profit–Organisationen;
+[W4];Sonderfinanzierung für private elementare Bildungseinrichtungen durch eine einmalige „Corona–Kindergarten–Platz–Sicherung“;7370000;7370000;;;7244215;7250815;7250815;Bildung;Zuschuss;Non–Profit–Organisationen;
+[W30];Sonderfinanzierung für private elementare Bildungseinrichtungen durch eine Corona–Kindergarten–Platz–Sicherung für die Monate Jänner bis März 2021;;5530000;;;;;5291468;Bildung;Zuschuss;Non–Profit–Organisationen;
+[W5];Zusatzförderung für Erweiterung des Betreuungsangebotes in den Sommerferien (Summer City Camps);2637000;2637000;;2637000;2637000;2637000;2637000;Bildung;Zuschuss;Non–Profit–Organisationen;
+[W6];Verzicht auf Einhebung der Essensbeiträge in städtischen Kindergärten und Horten und Umstellung auf tageweise Essensverrechnung ab April 2020;1600000;1600000;1600000;1600000;1600000;1600000;1600000;Bildung;Einnahmenverzicht;Privatpersonen;
+[W7];Verzicht auf Einhebung der Hortbesuchsbeiträge in städtischen Horten;3200000;3200000;3200000;3200000;3200000;3200000;3200000;Bildung;Einnahmenverzicht;Privatpersonen;
+[W31];Verzicht auf Einhebung der Hortbesuchsbeiträge in städtischen Horten für die Monate November 2020 bis Jänner 2021;;2400000;;;1600000;2400000;2400000;Bildung;Einnahmenverzicht;Privatpersonen;
+[W32];Verzicht auf Einhebung eines Teils der Jausenpauschale an Ganztagesschulen;;780000;;;;;780000;Bildung;Einnahmenverzicht;Privatpersonen;
+[W8];Verzicht auf Essens– und Betreuungsbeiträge während des Schulnotbetriebs;5000000;5000000;3128510;3128510;5000000;5000000;5000000;Bildung;Einnahmenverzicht;Privatpersonen;
+[W9];Subvention zur Abfederung der Umsatzeinbrüche durch Beschränkung des Spitalsbetriebs;7386000;7386000;7386000;7386000;7386000;7386000;7386000;Gesundheit;Zuschuss;Unternehmen;
+[W10];Einzelsubvention zur Aufrechterhaltung des Betriebs – Verein „Forum Wien Arena“;151732;151732;74330;151732;151732;151732;151732;Kunst und Kultur;Zuschuss;Non–Profit–Organisationen;
+[W11];Arbeitsstipendien;6275596;6275596;4233362;6275596;6275596;6275596;6275596;Kunst und Kultur;Zuschuss;Privatpersonen;
+[W12];Ausweitung der Plätze in der vollen Erziehung und Anstieg der Zusatzkosten im Bereich der Pflegeeltern;2800000;7000000;;1373000;2550000;3613000;6723000;Soziales;Zuschuss;Non–Profit–Organisationen;
+[W13];COVID–19 Gefahrenzulage;650000;650000;;;395000;500000;500000;Soziales;Zuschuss;Non–Profit–Organisationen;
+[W14];Erhöhung des Krisengeldes;130000;130000;;50000;50000;56700;112700;Soziales;Zuschuss;Privatpersonen;
+[W15];Ersatz schulfreie Zeit im Bereich Kinder– und Jugendhilfe;800000;2000000;103000;241300;747000;1037000;1719300;Soziales;Zuschuss;Non–Profit–Organisationen;
+[W16];Taxigutscheine für Personen über 65 Jahre;5400000;5400000;2533651;3540829;4501221;4501221;4501221;Soziales;Zuschuss;Privatpersonen;
+[W17];Technische Ausrüstung (Laptops) von Wohnungsgemeinschaften für „Homeschooling“;42000;42000;40165;40165;40165;40165;40165;Soziales;Zuschuss;Non–Profit–Organisationen;
+[W18];Lebensmittelpakete;100000;100000;57297;59953;59953;59953;59953;Soziales;Sachleistung;Privatpersonen;
+[W19];Tarifvergünstigungen Wiener Bäder;7500000;15760000;;;7260000;9040000;11667000;Soziales;Einnahmenverzicht;Privatpersonen;
+[W20];Verzicht auf Bestandzins und Nutzungsentgelt bei Sporteinrichtungen (Turnsäle, Sportplätze, Sporthallen);370000;767000;370000;370000;390000;588000;767000;Sport;Einnahmenverzicht;Non–Profit–Organisationen;
+[W21];Einnahmengarantie für Tourismusverbände – Subvention in Höhe des Differenzbetrags;18792000;18792000;;;8234504;8234504;8234504;Tourismus und Gastronomie;Zuschuss;Verbände;
+[W22];Wiener Gastro–Gutschein–Aktion;39072000;39072000;1886699;27685391;30686074;30686074;30686074;Wirtschaft;Zuschuss;Privatpersonen;
+[W23];Stundung von Darlehensraten – Garagen– und Wirtschaftsförderung;343150;343150;182095;343150;348150;348150;348150;Wirtschaft;Stundung;Unternehmen;
+[W33];Entfall der Gebrauchsabgabe für Schanigärten für November 2020 bis Februar 2021;;256150;;;;;256150;Wirtschaft;Einnahmenverzicht;Privatpersonen, Unternehmen, Non–Profit–Organisationen, öffentliche Einrichtungen;
+[W24];Erlass von Marktgebühren;880000;880000;836138;836138;836138;836138;836138;Wirtschaft;Einnahmenverzicht;Unternehmen (b2 und b3);
+[W34];Herabsetzung und Erstattung der Gebrauchsabgabe;;900000;;;;;5960;Wirtschaft;Einnahmenverzicht;Privatpersonen, Unternehmen, Non–Profit–Organisationen, öffentliche Einrichtungen;
+[W25];Mietfreistellungen – Unterstützung von Betrieben, die ihre Räumlichkeiten nicht nutzen konnten;142126;142126;139000;142126;142126;142126;142126;Wirtschaft;Einnahmenverzicht;Unternehmen (b1 bis b4);
+[W26];Pachtzinsermäßigungen für Hallen– und Sommerbäder und Gastronomie;600000;1205000;;;505000;685000;840000;Tourismus und Gastronomie;Einnahmenverzicht;Unternehmen;
+[W27];Bestandzinsreduktion bzw. –entfall, wenn der Vertragsgegenstand nicht genutzt werden durfte;36067;36067;33957;36067;36067;36067;36067;keine Beschränkung;Einnahmenverzicht;Privatpersonen, Unternehmen (b1 und b2);
+[W35];Bestandzinsreduktion bzw. –entfall, wenn der Vertragsgegenstand nicht genutzt werden durfte – ab Oktober 2020;;64631;;;36900;46800;64631;keine Beschränkung;Einnahmenverzicht;Privatpersonen, Unternehmen (b1 und b2);
+[W28];Herabsetzung und Erstattung der Gebrauchsabgabe;750000;1335888;353103;749069;997008;1283185;1335888;keine Beschränkung;Einnahmenverzicht;Privatpersonen, Unternehmen, Non–Profit–Organisationen, öffentliche Einrichtungen;
